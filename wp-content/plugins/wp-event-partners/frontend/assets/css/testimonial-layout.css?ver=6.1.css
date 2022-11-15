@@ -1,0 +1,107 @@
+/*layout-1*/
+section[class*=testimonials-layout-]{
+	text-align: center;
+}
+section[class*=testimonials-layout-] .main-title .title:before{
+	content: none;
+}
+section[class*=testimonials-layout-] .fa-quote-left{
+	font-size: 36px;
+	margin: 0 0 15px;
+	display: block;
+}
+section[class*=testimonials-layout-] .owl-dots{
+	margin: 20px 0 0 !important;
+}
+section[class*=testimonials-layout-] .item .social-media{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	justify-content: center;
+}
+section[class*=testimonials-layout-] .item .position{
+	display: block;
+	margin: 0 0 10px;
+}
+section[class*=testimonials-layout-] .item .social-media{
+	margin: 0 0 10px;
+}
+section[class*=testimonials-layout-] .item .social-media li{
+	margin: 0 15px 0 0;
+}
+section[class*=testimonials-layout-] .item .social-media li:last-child{
+	margin: 0;
+}
+/*end layout-1*/
+
+
+/*layout-2*/
+.testimonials-layout-1 .img-holder {width:100px;height: 100px;display: inline-block;margin-bottom: 10px;border-radius: 50%;overflow: hidden;}
+
+
+
+/*layout-2*/
+.testimonials-layout-2 .item {
+    box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.1);
+    margin: 10px;
+    padding: 20px;
+}
+.testimonials-layout-2 .item .img-holder{
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	margin: 0 auto 10px;
+	border-radius: 1000px;
+}
+/*end layout-2*/
+
+
+
+/*layout-3*/
+.testimonials-layout-3 .item {
+    box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.1);
+    margin: 70px 10px 10px;
+    padding: 20px;
+}
+.testimonials-layout-3 .item .img-holder{
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	margin: -70px auto 10px;
+	border-radius: 1000px;
+}
+.testimonials-layout-3 .item p{
+	margin: 0;
+}
+/*end layout-3*/
+
+
+/*layout-4*/
+.testimonials-layout-4 .item {
+    box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+}
+.testimonials-layout-4 .item .img-holder{
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	margin: 0 20px 10px 0;
+	border-radius: 1000px;
+}
+.testimonials-layout-4 .item .img-title{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	align-items: center;
+}
+.testimonials-layout-4 .item p{
+	margin: 0;
+}
+.testimonials-layout-4 .item .social-media{
+	justify-content: flex-start !important;
+}
+/*end layout-4*/

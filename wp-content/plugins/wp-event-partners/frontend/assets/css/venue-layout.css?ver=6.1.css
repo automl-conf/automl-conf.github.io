@@ -1,0 +1,32 @@
+/*layout-1*/
+section[class*=venue-layout-]{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	position: relative;
+	z-index: 0;
+	color: #fff;
+}
+section[class*=venue-layout-]:before{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+	opacity: 0.80;
+}
+section[class*=venue-layout-] .venue-title,
+section[class*=venue-layout-] p{
+	color: #fff;
+}
+section[class*=venue-layout-] .venue-title{
+	margin: 0 0 12px;
+}
+section[class*=venue-layout-] .location{
+	display: block;
+	margin: 0 0 15px;
+}
+section[class*=venue-layout-] iframe{border: none;}

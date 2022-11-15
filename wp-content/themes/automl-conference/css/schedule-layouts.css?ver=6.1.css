@@ -1,0 +1,251 @@
+/*layout-1*/
+.schedule-layout-1 .schedule-holder .session-block{
+    border-bottom: 1px solid #ddd;
+}
+.schedule-layout-1 .schedule-holder .session-block:last-child{
+    border: 0;
+}
+.schedule-layout-1 .schedule-holder .session-block .session-content-wrapper{
+    background: #fff;
+    position: relative;
+}
+
+.sponsors-layout-2 .sponsor-wrap{padding: 30px 0;}
+.sponsors-layout-2 .sponsor-wrap .row [class*=col-]{margin: 0;}
+.sponsors-layout-2 .sponsor-subtitle{border: none;}
+.sponsors-layout-2 .sponsor-wrap .col-sm-3{border-right: 1px solid #ddd;}
+
+
+.title-link span.live{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #ea096a;
+    color: #fff;
+    font-size: 11px;
+    text-transform: uppercase;
+    /*padding: 4px 8px 2px 8px;*/
+    min-width: 75px;
+    text-align: center;
+    line-height: 25px;
+}
+
+
+
+@media(min-width: 320px){
+    .schedule-layout-1 .tab-content{
+        border: 0;
+    }
+    .schedule-layout-1 .tab-content .tab-pane{
+        border: 1px solid #ddd;
+        margin: 0 0 30px;
+    }
+    .schedule-layout-1 .tab-content .tab-pane:last-child{
+        margin: 0;
+    }
+}
+
+@media (min-width: 575px){
+    .schedule-layout-1 .schedule-holder .session-block .session-content-wrapper{
+        padding: 40px 30px;
+    }
+}
+
+@media (min-width: 768px){
+    .schedule-layout-1 .tab-content{
+        border: 1px solid #ddd;
+    }
+    .schedule-layout-1 .tab-content .tab-pane{
+        border: 0;
+        margin: 0;
+    }
+}
+/*end layout-1*/
+
+
+
+/*layout-2*/
+.schedule-layout-2 .schedule-holder .session-block{
+    margin: 0 0 30px;
+}
+.schedule-layout-2 .schedule-holder .session-block:last-child{
+    border: 0;
+}
+.schedule-layout-2 .schedule-holder .session-block .time-img .time{
+    position: relative;
+    display: block;
+    padding: 7px 0;
+    text-align: center;
+    color: #fff;
+    margin: 0 0 15px;
+}
+.schedule-layout-2 .schedule-holder .session-block .time-img .img-holder{
+    width: 100%;
+    height: 168px;
+    background: #aaa;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.schedule-layout-2 .schedule-holder .session-block .session-content-wrapper{
+    border: 1px solid #ddd;
+    background: #fff;
+}
+.schedule-layout-2 .tab-content{
+    border: 0;
+}
+.schedule-layout-2 .tab-content .nav-pills{
+    justify-content: flex-start;
+}
+.schedule-layout-2 .tab-content .nav-pills .nav-item{
+    margin: 0;
+}
+
+
+
+@media (min-width: 320px){
+    .schedule-layout-2 .schedule-holder .session-block .time-img .time:before{
+        content: "";
+        position: absolute;
+        bottom: -12px;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 8.5px 0 8.5px 8px;
+        border-color: transparent transparent transparent #aaa;
+        transform: rotate(90deg);
+    }
+    .schedule-layout-2 .tab-content .nav-pills{
+        margin: 0 0 15px !important;
+    }
+}
+
+@media (min-width: 768px){
+    .schedule-layout-2 .nav-pills .nav-link.active:before {
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        bottom: 0;
+        left: auto;
+        right: -12px;
+        border-width: 12.5px 0 12.5px 12px;
+        border-color: transparent transparent transparent #000;
+    }
+    .schedule-layout-2 .nav-pills{
+        top: 0;
+        z-index: 999;
+    }
+    .schedule-layout-2 .nav-pills .nav-item{
+        margin: 0 0 1px;
+    }
+}
+
+@media (min-width: 992px){
+    .schedule-layout-2 .schedule-holder .session-block .time-img{
+        min-width: 186px;
+        max-width: 186px;
+        margin: 0 30px 0 0;
+    }
+    .schedule-layout-2 .session-block{
+        display: flex;
+    }
+    .schedule-layout-2 .schedule-holder .session-block .time-img .time:before{
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        right: -8px;
+        margin: 0;
+        left: auto;
+    }
+    .schedule-layout-2 .tab-content .nav-pills{
+        margin: 0 0 30px !important;
+    }
+}
+/*end layout-2*/
+
+
+
+/*layout-3*/
+.schedule-layout-3 .schedule-holder .session-block{
+    border-bottom: 1px solid #ddd;
+}
+.schedule-layout-3 .schedule-holder .session-block:last-child{
+    border: 0;
+}
+.schedule-layout-3 .schedule-holder .session-block .session-content-wrapper{
+    background: #fff;
+    padding: 30px 20px;
+}
+.schedule-layout-3 .session-content-wrapper .title-link .title{
+    margin: 0;
+}
+.schedule-layout-3 .session-block .session-content-wrapper .speakers {
+    min-width: auto;
+}
+.schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .speakers,
+.schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .speakers:last-child{
+    margin: 0;
+}
+.schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .row [class*=col-]:first-child{
+    padding-right: 0;
+}
+.schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .speakers .img-holder{
+    max-width: 40px;
+    max-height: 40px;
+    border: 2px solid #fff;
+    box-shadow: 0 3px 0 0 rgba(0,0,0,0.16);
+    margin: 0 5px 5px 0;
+}
+
+
+@media (min-width: 320px){
+    .schedule-layout-3 .session-block .session-content-wrapper .time-room,
+    .schedule-layout-3 .session-content-wrapper .title-link,
+    .schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .session-speakers{
+        margin: 0 0 10px;
+    }
+    .schedule-layout-3 .session-block .session-content-wrapper .session-speakers{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .schedule-layout-3 .tab-content .tab-pane{
+        border: 1px solid #ddd;
+        margin: 0 0 30px;
+    }
+    .schedule-layout-3 .tab-content,
+    .schedule-layout-3 .tab-content-1 .tab-pane{
+        border: 0;
+    }
+    .schedule-layout-3 .tab-content .tab-pane:last-child,
+    .schedule-layout-3 .tab-content-1 .tab-pane{
+        margin: 0;
+    }
+}
+
+@media (min-width: 768px){
+    .schedule-layout-3 .tab-content{
+        border: 1px solid #ddd;
+    }
+    .schedule-layout-3 .tab-content .tab-pane{
+        border: 0;
+        margin: 0;
+    }
+}
+
+@media (min-width: 992px){
+    .schedule-layout-3 .session-block .session-content-wrapper .time-room,
+    .schedule-layout-3 .session-content-wrapper .title-link,
+    .schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .session-speakers{
+        margin: 0;
+    }
+    .schedule-layout-3 .session-block .session-content-wrapper .session-speakers{
+        justify-content: center;
+    }
+    .schedule-layout-3 .schedule-holder .session-block .session-content-wrapper .row [class*=col-]:last-child{
+        text-align: center;
+    }
+}
+/*end layout-3*/

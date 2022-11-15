@@ -1,0 +1,12 @@
+.automl-red-border {
+  padding: 0.5em;
+  border:solid 5px red;
+}
+
+.speaker-talk {
+  grid-column: 1 / span 2;
+}
+
+.speaker-layout-4 .speaker-holder {
+  grid-gap: 5px 15px;
+}

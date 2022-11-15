@@ -1,0 +1,30 @@
+/*.sponsor-subtitle:first-child + div.row > div.col-lg-3 {*/
+#sponsor > *:nth-child(2) > div.col-lg-3 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+#sponsor > *:nth-child(4) > div.col-lg-3 {
+  flex: 0 0 30%;
+  max-width: 30%;
+}
+#sponsor > *:nth-child(6) > div.col-lg-3 {
+  flex: 0 0 27%;
+  max-width: 27%;
+}
+.sponsor-subtitle:nth-child(1) {
+  color:#F1C43B;
+  font-size: 3em;
+}
+.sponsor-subtitle:nth-child(3) {
+  color: #809b9f;
+/* #BFCDD9; */
+  font-size: 2em;
+}
+.sponsor-subtitle:nth-child(5) {
+  color:#D98841;
+}
+
+.sponsors-layout-1 .img-holder > a,
+.sponsors-layout-1 .img-holder > a > img {
+  width: 100%;
+}
