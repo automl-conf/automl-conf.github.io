@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calls on AutoML 2023</title>
-    <link>https://woznicak.github.io/automl_test_website/calls/</link>
+    <link>https://2023.automl.cc/calls/</link>
     <description>Recent content in Calls on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://woznicak.github.io/automl_test_website/calls/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/calls/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Call for papers</title>
-      <link>https://woznicak.github.io/automl_test_website/calls/forpapers/</link>
+      <title>Call For Papers</title>
+      <link>https://2023.automl.cc/calls/forpapers/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/calls/forpapers/</guid>
+      <guid>https://2023.automl.cc/calls/forpapers/</guid>
       <description>AutoML 2023 - The second international conference on automated machine learning brings together researchers and users, with the goals of developing automated methods for speeding up the development of machine learning applications, obtaining improved performance, and thereby democratizing machine learning.</description>
     </item>
     

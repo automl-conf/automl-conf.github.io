@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AutoML 2023</title>
-    <link>https://woznicak.github.io/automl_test_website/</link>
+    <link>https://2023.automl.cc/</link>
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://woznicak.github.io/automl_test_website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Call for papers</title>
-      <link>https://woznicak.github.io/automl_test_website/calls/forpapers/</link>
+      <title>Call For Papers</title>
+      <link>https://2023.automl.cc/calls/forpapers/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/calls/forpapers/</guid>
+      <guid>https://2023.automl.cc/calls/forpapers/</guid>
       <description>AutoML 2023 - The second international conference on automated machine learning brings together researchers and users, with the goals of developing automated methods for speeding up the development of machine learning applications, obtaining improved performance, and thereby democratizing machine learning.</description>
     </item>
     
     <item>
       <title>Dates</title>
-      <link>https://woznicak.github.io/automl_test_website/dates/</link>
+      <link>https://2023.automl.cc/dates/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/dates/</guid>
+      <guid>https://2023.automl.cc/dates/</guid>
       <description>Conference: September 13th – 15th 2023 Industry day: September 12th Submission Timeline Datetime (AOE) Registration opens TBA Paper submission opens TBA Full paper submission and co-author registration deadline March 23rd, 2023 (Thursday) Review deadline May 1, 2023 (Monday) Reproducibility review deadline May 1, 2023 (Monday) Reviews released May 30, 2023 (Tuesday) Rebuttal / Discussion period June 5st - June 19, 2023 Reviewer &amp;amp; AC discussion June 20th - June 26, 2023 Author notification July 19, 2023 (Thursday) Camera-ready final submission deadline August 9, 2023 (Thursday) Deadline for recorded talks* TBA AOE - Anywhere on Earth</description>
     </item>
     
     <item>
       <title>Ethics and Accessibility Guidelines</title>
-      <link>https://woznicak.github.io/automl_test_website/ethics/</link>
+      <link>https://2023.automl.cc/ethics/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/ethics/</guid>
+      <guid>https://2023.automl.cc/ethics/</guid>
       <description>1. Introduction Both the ethical implications of the research published at the AutoML Conference as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
-      <title>Call for papers</title>
-      <link>https://woznicak.github.io/automl_test_website/competitions/forpapers/</link>
+      <title>Call For Papers</title>
+      <link>https://2023.automl.cc/competitions/forpapers/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/competitions/forpapers/</guid>
+      <guid>https://2023.automl.cc/competitions/forpapers/</guid>
       <description>See Dates for all deadlines and openreview for submitting.
 Topics The first international conference on automated machine learning (AutoML-Conf 2022) brings together researchers and users, with the goals of developing automated methods for speeding up the development of machine learning applications, obtaining improved performance, and thereby democratizing machine learning.</description>
     </item>
     
     <item>
       <title>Best Paper Award for “Automatic Termination for HPO”</title>
-      <link>https://woznicak.github.io/automl_test_website/blog/post-2/</link>
+      <link>https://2023.automl.cc/blog/post-2/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/blog/post-2/</guid>
+      <guid>https://2023.automl.cc/blog/post-2/</guid>
       <description>At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method.</description>
     </item>
     
     <item>
       <title>For competitions</title>
-      <link>https://woznicak.github.io/automl_test_website/competitions/forcompetitions/</link>
+      <link>https://2023.automl.cc/competitions/forcompetitions/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/competitions/forcompetitions/</guid>
+      <guid>https://2023.automl.cc/competitions/forcompetitions/</guid>
       <description>1. Introduction Both the ethical implications of the research published at the AutoML-Conf as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
       <title>For sponsors</title>
-      <link>https://woznicak.github.io/automl_test_website/competitions/forsponsor/</link>
+      <link>https://2023.automl.cc/competitions/forsponsor/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/competitions/forsponsor/</guid>
+      <guid>https://2023.automl.cc/competitions/forsponsor/</guid>
       <description>1. Introduction Both the ethical implications of the research published at the AutoML-Conf as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
       <title>Organizers</title>
-      <link>https://woznicak.github.io/automl_test_website/organizers/</link>
+      <link>https://2023.automl.cc/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/organizers/</guid>
+      <guid>https://2023.automl.cc/organizers/</guid>
       <description>General chair Contact: general-chair@automl.cc
 Frank Hutter, University of Freiburg &amp;amp; Bosch</description>
     </item>
     
     <item>
       <title>Venue</title>
-      <link>https://woznicak.github.io/automl_test_website/venue/</link>
+      <link>https://2023.automl.cc/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/venue/</guid>
+      <guid>https://2023.automl.cc/venue/</guid>
       <description></description>
     </item>
     

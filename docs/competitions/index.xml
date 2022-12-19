@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Competitions on AutoML 2023</title>
-    <link>https://woznicak.github.io/automl_test_website/competitions/</link>
+    <link>https://2023.automl.cc/competitions/</link>
     <description>Recent content in Competitions on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://woznicak.github.io/automl_test_website/competitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/competitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Call for papers</title>
-      <link>https://woznicak.github.io/automl_test_website/competitions/forpapers/</link>
+      <title>Call For Papers</title>
+      <link>https://2023.automl.cc/competitions/forpapers/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/competitions/forpapers/</guid>
+      <guid>https://2023.automl.cc/competitions/forpapers/</guid>
       <description>See Dates for all deadlines and openreview for submitting.
 Topics The first international conference on automated machine learning (AutoML-Conf 2022) brings together researchers and users, with the goals of developing automated methods for speeding up the development of machine learning applications, obtaining improved performance, and thereby democratizing machine learning.</description>
     </item>
     
     <item>
       <title>For competitions</title>
-      <link>https://woznicak.github.io/automl_test_website/competitions/forcompetitions/</link>
+      <link>https://2023.automl.cc/competitions/forcompetitions/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/competitions/forcompetitions/</guid>
+      <guid>https://2023.automl.cc/competitions/forcompetitions/</guid>
       <description>1. Introduction Both the ethical implications of the research published at the AutoML-Conf as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
       <title>For sponsors</title>
-      <link>https://woznicak.github.io/automl_test_website/competitions/forsponsor/</link>
+      <link>https://2023.automl.cc/competitions/forsponsor/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://woznicak.github.io/automl_test_website/competitions/forsponsor/</guid>
+      <guid>https://2023.automl.cc/competitions/forsponsor/</guid>
       <description>1. Introduction Both the ethical implications of the research published at the AutoML-Conf as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
