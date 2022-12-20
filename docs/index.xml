@@ -6,14 +6,23 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call For Papers</title>
       <link>https://2023.automl.cc/calls/forpapers/</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/calls/forpapers/</guid>
       <description>AutoML 2023 - The second international conference on automated machine learning brings together researchers and users, with the goals of developing automated methods for speeding up the development of machine learning applications, obtaining improved performance, and thereby democratizing machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Ethics and Accessibility Guidelines</title>
+      <link>https://2023.automl.cc/ethics/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/ethics/</guid>
+      <description>1. Introduction Both the ethical implications of the research published at the AutoML Conference as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
@@ -23,15 +32,6 @@
       
       <guid>https://2023.automl.cc/dates/</guid>
       <description>Conference: September 13th – 15th 2023 Industry day: September 12th Submission Timeline Datetime (AOE) Registration opens TBA Paper submission opens TBA Full paper submission and co-author registration deadline March 23rd, 2023 (Thursday) Review deadline May 1, 2023 (Monday) Reproducibility review deadline May 1, 2023 (Monday) Reviews released May 30, 2023 (Tuesday) Rebuttal / Discussion period June 5st - June 19, 2023 Reviewer &amp;amp; AC discussion June 20th - June 26, 2023 Author notification July 19, 2023 (Thursday) Camera-ready final submission deadline August 9, 2023 (Thursday) Deadline for recorded talks* TBA AOE - Anywhere on Earth</description>
-    </item>
-    
-    <item>
-      <title>Ethics and Accessibility Guidelines</title>
-      <link>https://2023.automl.cc/ethics/</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/ethics/</guid>
-      <description>1. Introduction Both the ethical implications of the research published at the AutoML Conference as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
