@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://woznicak.github.io/automl_test_website/</loc>
+    <loc>https://2023.automl.cc/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/calls/forpapers/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/calls/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/ethics/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/dates/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/calls/forpapers/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/calls/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/dates/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/ethics/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/competitions/forpapers/</loc>
+    <loc>https://2023.automl.cc/competitions/forpapers/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/competitions/</loc>
+    <loc>https://2023.automl.cc/competitions/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/blog/post-2/</loc>
+    <loc>https://2023.automl.cc/blog/post-2/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/blog/</loc>
+    <loc>https://2023.automl.cc/blog/</loc>
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/competitions/forcompetitions/</loc>
+    <loc>https://2023.automl.cc/competitions/forcompetitions/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/competitions/forsponsor/</loc>
+    <loc>https://2023.automl.cc/competitions/forsponsor/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/categories/</loc>
+    <loc>https://2023.automl.cc/categories/</loc>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/organizers/</loc>
+    <loc>https://2023.automl.cc/organizers/</loc>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/tags/</loc>
+    <loc>https://2023.automl.cc/tags/</loc>
   </url><url>
-    <loc>https://woznicak.github.io/automl_test_website/venue/</loc>
+    <loc>https://2023.automl.cc/venue/</loc>
   </url>
 </urlset>
