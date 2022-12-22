@@ -6,7 +6,16 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition</title>
+      <link>https://2023.automl.cc/blog/wrapping-up-automl-conf-2022-and-introducing-the-2023-edition/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/blog/wrapping-up-automl-conf-2022-and-introducing-the-2023-edition/</guid>
+      <description>The inaugural AutoML conference 2022 was an exciting adventure for us!</description>
+    </item>
+    
     <item>
       <title>Call For Papers</title>
       <link>https://2023.automl.cc/calls/forpapers/</link>
@@ -46,11 +55,20 @@ Topics The first international conference on automated machine learning (AutoML-
     
     <item>
       <title>Best Paper Award for “Automatic Termination for HPO”</title>
-      <link>https://2023.automl.cc/blog/post-2/</link>
+      <link>https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://2023.automl.cc/blog/post-2/</guid>
+      <guid>https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/</guid>
       <description>At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Reproducibility Reviews</title>
+      <link>https://2023.automl.cc/blog/introducing-reproducibility-reviews/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/blog/introducing-reproducibility-reviews/</guid>
+      <description>Did you ever try to reproduce a paper from a top ML conference and failed to do so?</description>
     </item>
     
     <item>
