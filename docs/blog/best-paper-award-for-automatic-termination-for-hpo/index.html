@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-<title>Competitions</title>
+<title>Best Paper Award for “Automatic Termination for HPO”</title>
 
 
 
@@ -17,7 +17,7 @@
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-<meta name="description" content="meta description">
+<meta name="description" content="AutoML Conference 2023">
 <meta name="author" content="AutoML Conference 2023">
 
 <meta name="theme-name" content="andromeda-light" />
@@ -42,17 +42,19 @@
 
 
 <!-- Open Graph image and Twitter Card metadata -->
-<meta name="twitter:title" content="Competitions"/>
-<meta name="twitter:description" content="meta description"/>
-<meta property="og:title" content="Competitions" />
-<meta property="og:description" content="meta description" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://2023.automl.cc/competitions/" />
+<meta name="twitter:title" content="Best Paper Award for “Automatic Termination for HPO”"/>
+<meta name="twitter:description" content="At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method."/>
+<meta property="og:title" content="Best Paper Award for “Automatic Termination for HPO”" />
+<meta property="og:description" content="At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2022-08-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-08-12T00:00:00+00:00" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Competitions"/>
-<meta name="twitter:description" content="meta description"/>
+<meta name="twitter:title" content="Best Paper Award for “Automatic Termination for HPO”"/>
+<meta name="twitter:description" content="At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method."/>
 
 
 
@@ -271,65 +273,557 @@
 
 
 
-<section class="page-header">
-  <div class="container-xxl">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="block">
-          <div class="section-title text-center mb-0">
-            <h1 class="title underline-none" data-aos="fade-up">Competitions</h1>
-            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
-              <ol class="breadcrumb justify-content-center bg-transparent p-0 mb-0">
-                <li class="breadcrumb-item"><a class="link-primary" href="https://2023.automl.cc/">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Competitions</li>
-              </ol>
-            </nav>
+
+
+<section class="section-sm pt-0">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-lg-8">
+<br>
+<br>
+<br>
+        <div class="mb-5">
+          <h2>Best Paper Award for “Automatic Termination for HPO”</h2>
+          <div class="d-flex align-items-center card-author mt-4">
+            <div class="user-info">
+              
+              <span>Aug 12, 2022</span>
+            </div>
           </div>
         </div>
 
-        <div class="has-circle">
-          <img class="wave-1 w-100" src="images/banner_app.png" alt="*">
+        <div class="content">
+          <p>At the first Conference on Automated Machine Learning (AutoML), the work on <a href="https://www.amazon.science/publications/automatic-termination-for-hyperparameter-optimization">Automatic termination for hyperparameter optimization</a> won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method. In this blog post, we, i.e., the authors of the paper, intuitively explain the main aspects of this work.</p>
+<p>The performance of machine learning models crucially depends on their hyperparameters, but setting them correctly is typically a tedious and expensive task. <em>Hyperparameter optimization</em> (HPO) requires iteratively retraining the model with different hyperparameter configurations in a search for a better one. This poses a question of the trade-off between the time use and the accuracy of the resulting model. The current work on <a href="https://www.amazon.science/publications/automatic-termination-for-hyperparameter-optimization">Automatic termination for hyperparameter optimization</a> suggests a new principled stopping criterion for this problem. At its core, it admits the discrepancy between the <em>generalization error</em> (i.e., true but unknown optimization objective) and its <em>empirical estimator</em> (i.e., objective optimized by HPO). That hints at the intuitive stopping criterion that is triggered once we are unlikely to improve the generalization error.</p>
+<h3 id="hyperparameter-optimization-as-black-box-optimization">Hyperparameter optimization as black-box optimization</h3>
+<p>HPO can be seen as black-box optimization where we sequentially interact with a fixed unknown objective <code>$f(\gamma)$</code> and for a selected input <code>$\gamma_t$</code> observe its noise-perturbed evaluation <code>$y_t$</code>. In HPO, the black-box function to be minimized is a <em>population risk,</em> i.e., performance of the model <code>$M_{\gamma}$</code> trained on some data <code>$D$</code> (e.g., via SGD) evaluated on the unseen data from the distribution <code>$P$</code>. In the evaluation, we observe the noise-perturbed result with the stochasticity coming from the model training.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img title="" loading="lazy" decoding="async" class=" " width="1024" height="217" src="https://2023.automl.cc/images/blog/best_award_2022_1_hucb356d7eed211010ed9b15b9b69cd5c4_49590_1024x217_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_1_hucb356d7eed211010ed9b15b9b69cd5c4_49590_1024x217_resize_box_3.png'">
+
+
+
+
+
+
+
+<p>Bayesian optimization (BO) is a powerful framework for such black-box functions. In its core, for the function <code>$f$</code> with the optimizer <code>$\gamma^∗$</code>, BO searches for better predictive performance via (i) training a probabilistic model (e.g., Gaussian process (GP) or Bayesian neural network) on the evaluations and (ii) acquiring the most promising next hyperparameter candidate. This iterative search lasts until, for example, some user-defined budget. The goal is to minimize the distance between optimal <code>$\gamma^*$</code> and the best configuration <code>$\gamma^∗_t$</code> found before the budget is used. This distance <code>$f(\gamma^*_t)–f(\gamma^∗)$</code> quantifies the convergence of the HPO algorithm.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img title="" loading="lazy" decoding="async" class=" " width="866" height="425" src="https://2023.automl.cc/images/blog/best_award_2022_2_hu8d9c77ed82c9be334efdf6953f7e63fa_69703_866x425_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_2_hu8d9c77ed82c9be334efdf6953f7e63fa_69703_866x425_resize_box_3.png'">
+
+
+
+
+
+
+
+<h3 id="the-discrepancy-between-the-true-objective-and-the-computable-hpo-target">The discrepancy between the <em>true</em> objective and the <em>computable</em> HPO target</h3>
+<p>In the paper, we qualitatively address the question “whether <code>$f$</code> is actually the objective we optimize in practical BO”. The answer is no since the data distribution is unknown in practice. What we actually optimize (and evaluate) is the estimator of the population risk. That is, for some given data (divided into train-validation-test) we evaluate validation set-based value. As the result, the evaluation <code>$y_t$</code> inherits stochasticity not only due to the (1) stochasticity in model training; but also due to (2) data realization.</p>
+<p>That highlights the discrepancy between what we would like to optimize and what we can optimize. As the result, optimizing the empirical estimator too strenuously may actually lead to sub-optimal solutions to the population risk.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img title="" loading="lazy" decoding="async" class=" " width="1024" height="242" src="https://2023.automl.cc/images/blog/best_award_2022_3_hu2d29d44d5cb6261021cd4c2af2fb9629_66244_1024x242_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_3_hu2d29d44d5cb6261021cd4c2af2fb9629_66244_1024x242_resize_box_3.png'">
+
+
+
+
+
+
+
+<h3 id="convergence-criterion-for-hyperparameter-optimization">Convergence criterion for hyperparameter optimization</h3>
+<p>Due to the discrepancy in the objectives, the quality of configurations is judged according to the empirical estimator <code>$\widehat{f}$</code> instead of the true objective <code>$f$</code>. Namely, it is quantified by the regret <code>$\hat{r_t}=\widehat{f}(\gamma_t^*)–\widehat{f}(\gamma_D^*)$</code> computed for the true optimizer <code>$\gamma: \hat{f} \to \widehat{f}$</code> and the best-found solution <code>$\gamma_t^*$</code>(see the figure below).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img title="" loading="lazy" decoding="async" class=" " width="1022" height="398" src="https://2023.automl.cc/images/blog/best_award_2022_4_hua06966b5a5e7c552541c004da6319a45_83651_1022x398_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_4_hua06966b5a5e7c552541c004da6319a45_83651_1022x398_resize_box_3.png'">
+
+
+
+
+
+
+
+<p>Our termination criterion is based on the observation that the evaluation of a particular hyperparameter configuration inherits the statistical error of the empirical estimator. By the statistical error, we mean, for example, its variance indicating how far, on average, the collection of evaluations is from the expected value. If the statistical error <em>dominates</em> the regret, further reduction of the regret may not improve notably the generalization error. However, neither the statistical error nor the true regret is known. In the paper, we show how to compute estimates of both quantities.</p>
+<h3 id="building-blocks-of-the-termination-criterion">Building blocks of the termination criterion</h3>
+<h5 id="bounding-the-regret">Bounding the regret</h5>
+<p>We derive the regret bounds from the probabilistic model used in Bayesian optimization. The key idea behind the bound is that as long as the model, namely the Gaussian process, is well-calibrated, the function: <code>$\hat{f} \rightarrow \widehat{f}$</code> lies in the interval with upper and lower confidence bounds (see <strong>ucb</strong> and <strong>lcb</strong> below). These are theoretically studied concentration inequalities valid under common assumptions used in BO and HPO (see the paper). Thus, the regret bound can be obtained via the distance between the upper and lower bounds on the function.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img title="" loading="lazy" decoding="async" class=" " width="861" height="423" src="https://2023.automl.cc/images/blog/best_award_2022_5_huee6d76a64f5366a1722dded3f531e106_95938_861x423_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_5_huee6d76a64f5366a1722dded3f531e106_95938_861x423_resize_box_3.png'">
+
+
+
+
+
+
+
+<h5 id="bounding-the-statistical-error">Bounding the statistical error</h5>
+<p>We show how one estimates the statistical error in the case of the prominent cross-validation-based estimator. The characteristics of this estimator, namely bias and variance, are well theoretically studied, which equips us with the ways to estimate them.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img title="" loading="lazy" decoding="async" class=" " width="967" height="376" src="https://2023.automl.cc/images/blog/best_award_2022_6_huc92cb058edc84543222a2a1b89f970ad_96412_967x376_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_6_huc92cb058edc84543222a2a1b89f970ad_96412_967x376_resize_box_3.png'">
+
+
+
+
+
+
+
+<p>Our termination criterion, then, is that the statistical error exceeds the maximum plausible improvement. This termination condition adapts to different algorithms or datasets and its computation comes with negligible computational cost on top of training the model for some hyperparameter configuration.</p>
+<h3 id="evaluation">Evaluation</h3>
+<p>We evaluate the stopping criterion over a wide range of HPO and Neural Architecture Search problems, covering the cases where cross-validation is used and when it is not (or can not be). The results show that our method is problem adaptive (in contrast to the baselines). Moreover, it proves an interpretable way to navigate the trade-off between the time use and the accuracy of the resulting model. We encourage you to check the experiments and the main paper for more details.</p>
+
         </div>
+
       </div>
+
+
     </div>
   </div>
 </section>
 
 
-<section data-aos="fade-in">
-  <div class="container-xxl">
-    <div class="row justify-content-center">
 
-
-      
-      <div class="col-xl-5 col-lg-6"><a href="https://2023.automl.cc/competitions/forpapers/">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize"> Call For Papers </h3>
-          <p>Topics of interest include but are not limited to Neural Architecture Search (NAS), Hyperparameter Optimization (HPO) and Combined Algorithm Selection and Hyperparameter Optimization (CASH)</p>
+<section class="section pt-5">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-12">
+        <div class="section-title text-center">
+          <h2 class="title">Recent Articles</h2>
         </div>
-        </a>
       </div>
       
-      <div class="col-xl-5 col-lg-6"><a href="https://2023.automl.cc/competitions/forcompetitions/">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize"> For competitions </h3>
-          <p>AutoML-Conf 2022 invites interested sponsors to choose between the following three sponsorship packages and their associated benefits.</p>
+      
+      
+      <div class="col-lg-5">
+        <article class="card blog-card">
+  <a href="https://2023.automl.cc/blog/wrapping-up-automl-conf-2022-and-introducing-the-2023-edition/" title="Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition">
+  </a>
+  <div class="card-body">
+    <h3 class="card-title"><a href="https://2023.automl.cc/blog/wrapping-up-automl-conf-2022-and-introducing-the-2023-edition/" title="Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition">Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition</a></h3>
+    <p>The inaugural AutoML conference 2022 was an exciting adventure for us! With 170 attendees in the very first iteration, …</p>
+  </div>
+  <div class="card-footer bg-transparent border-top-0">
+    <div class="card-author">
+     
+                <div class="user-info">
+          
+          <p class="font-weight-500 mb-0 h5">Frank Hutter, Marius Lindauer</p>
+          
+          <span>Dec 21, 2022</span>
         </div>
-        </a>
+     
+    </div>
+  </div>
+</article>
       </div>
       
-      <div class="col-xl-5 col-lg-6"><a href="https://2023.automl.cc/competitions/forsponsor/">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize"> For sponsors </h3>
-          <p>AutoML-Conf 2022 invites interested sponsors to choose between the following three sponsorship packages and their associated benefits.</p>
+      <div class="col-lg-5">
+        <article class="card blog-card">
+  <a href="https://2023.automl.cc/blog/introducing-reproducibility-reviews/" title="Introducing Reproducibility Reviews">
+  </a>
+  <div class="card-body">
+    <h3 class="card-title"><a href="https://2023.automl.cc/blog/introducing-reproducibility-reviews/" title="Introducing Reproducibility Reviews">Introducing Reproducibility Reviews</a></h3>
+    <p>Did you ever try to reproduce a paper from a top ML conference and failed to do so? You’re not alone! At AutoML-Conf …</p>
+  </div>
+  <div class="card-footer bg-transparent border-top-0">
+    <div class="card-author">
+     
+                <div class="user-info">
+          
+          <p class="font-weight-500 mb-0 h5">Frank Hutter, Isabelle Guyon, Marius Lindauer and Mihaela van der Schaar (general and program chairs of AutoML-Conf 2022)</p>
+          
+          <span>Feb 17, 2022</span>
         </div>
-        </a>
+     
+    </div>
+  </div>
+</article>
       </div>
       
-      
-      </div>
+    </div>
   </div>
 </section>
+
+
 
 
 

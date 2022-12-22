@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-<title>Competitions</title>
+<title>Introducing Reproducibility Reviews</title>
 
 
 
@@ -17,7 +17,7 @@
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-<meta name="description" content="meta description">
+<meta name="description" content="AutoML Conference 2023">
 <meta name="author" content="AutoML Conference 2023">
 
 <meta name="theme-name" content="andromeda-light" />
@@ -42,17 +42,19 @@
 
 
 <!-- Open Graph image and Twitter Card metadata -->
-<meta name="twitter:title" content="Competitions"/>
-<meta name="twitter:description" content="meta description"/>
-<meta property="og:title" content="Competitions" />
-<meta property="og:description" content="meta description" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://2023.automl.cc/competitions/" />
+<meta name="twitter:title" content="Introducing Reproducibility Reviews"/>
+<meta name="twitter:description" content="Did you ever try to reproduce a paper from a top ML conference and failed to do so?"/>
+<meta property="og:title" content="Introducing Reproducibility Reviews" />
+<meta property="og:description" content="Did you ever try to reproduce a paper from a top ML conference and failed to do so?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://2023.automl.cc/blog/introducing-reproducibility-reviews/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2022-02-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-02-17T00:00:00+00:00" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Competitions"/>
-<meta name="twitter:description" content="meta description"/>
+<meta name="twitter:title" content="Introducing Reproducibility Reviews"/>
+<meta name="twitter:description" content="Did you ever try to reproduce a paper from a top ML conference and failed to do so?"/>
 
 
 
@@ -271,65 +273,130 @@
 
 
 
-<section class="page-header">
-  <div class="container-xxl">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="block">
-          <div class="section-title text-center mb-0">
-            <h1 class="title underline-none" data-aos="fade-up">Competitions</h1>
-            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
-              <ol class="breadcrumb justify-content-center bg-transparent p-0 mb-0">
-                <li class="breadcrumb-item"><a class="link-primary" href="https://2023.automl.cc/">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Competitions</li>
-              </ol>
-            </nav>
+
+
+<section class="section-sm pt-0">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-lg-8">
+<br>
+<br>
+<br>
+        <div class="mb-5">
+          <h2>Introducing Reproducibility Reviews</h2>
+          <div class="d-flex align-items-center card-author mt-4">
+            <div class="user-info">
+              
+              <p class="font-weight-500 mb-0 h5">Frank Hutter, Isabelle Guyon, Marius Lindauer and Mihaela van der Schaar (general and program chairs of AutoML-Conf 2022)</p>
+              
+              <span>Feb 17, 2022</span>
+            </div>
           </div>
         </div>
 
-        <div class="has-circle">
-          <img class="wave-1 w-100" src="images/banner_app.png" alt="*">
+        <div class="content">
+          <p>Did you ever try to reproduce a paper from a top ML conference and failed to do so? You’re not alone! At AutoML-Conf (see <a href="https://automl.cc/">automl.cc</a>), we’re aiming for a higher standard: with the papers we publish you shouldn’t have this problem!</p>
+<h3 id="why-is-this-important">Why is this important?</h3>
+<p>The reproducibility of research papers is key to the sustained progress of a field. Yet, there are many accounts of poor reproducibility in machine learning [<a href="https://www.nature.com/articles/s41586-020-2766-y">Haibe-Kains et al, 2020</a>], reinforcement learning [<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16669">Henderson et al. 2018</a>, <a href="https://arxiv.org/abs/2108.13264">Agarwal et al. 2021</a>] and also AutoML [<a href="https://openreview.net/forum?id=HygrdpVKvr">Yan et al. 2019</a>, <a href="https://www.jmlr.org/papers/v21/20-056.html">Lindauer &amp; Hutter. 2020</a>]. We believe that at AutoML-Conf we can fix this, and if we’re successful then other top ML conferences may follow.</p>
+<h3 id="what-is-the-status-quo">What is the status quo?</h3>
+<p>Let’s say Alice wants to reproduce the results of Bob’s paper. If Bob does not make code available, Alice has to implement it from scratch. This often takes substantial time (often weeks) and rarely yields the same results as in the paper. The result? Much reduced impact for Bob, wasted effort for Alice, a slow-down in progress in the community. Not good.
+Fortunately, in some cases Bob does make code available by now. However, Alice may still have to fight with it, find it to be incomplete, not runnable, or to not yield the original results. She emails Bob, who initially replies with helpful comments but at some point says he doesn’t have time to help more because he is busy with his next two publications. Again, the same failure as above. This happens far too often.</p>
+<h3 id="what-can-conferences-do-to-improve-this">What can conferences do to improve this?</h3>
+<p>NeurIPS took a great first step by introducing a reproducibility checklist in 2019. However, NeurIPS neither mandates a code release nor makes the checklist available after the review process, reducing transparency. Next to this “official” checklist, individual reviewers, who have been sensitized to the topic of reproducibility, sometimes ask about code during the rebuttal process. Such requests during the rebuttal are almost always successful. However, the fact that they only occur for a small fraction of papers increases the randomness in reviewing.</p>
+<h3 id="can-we-do-better">Can we do better?</h3>
+<p>Yes! The problem with the status quo is that the incentive system is broken. It is substantial work to ensure the reproducibility of results, and while there are many incentives for publishing the next paper (e.g., graduation, tenure reviews, hiring criteria, performance reviews at companies, etc), the incentives for ensuring reproducibility aren’t comparable. We thus need to turn this incentive system around: <strong>authors should have to do the work for ensuring the reproducibility of their results &lsquo;in order to get their paper published&rsquo;</strong>. This incentive already works when individual reviewers ask about code, and at AutoML-Conf we’ll consistently integrate such discussions about reproducibility into the review process.</p>
+<h3 id="how-will-we-achieve-this">How will we achieve this?</h3>
+<p>To make the papers we publish at AutoML-Conf highly reproducible, we decided to invite dedicated reproducibility reviewers. These reviewers will be asked to check the authors’ answers to the questions of the reproducibility checklist (see the <a href="https://github.com/automl-conf/LatexTemplate/blob/main/instructions.pdf">authors’ instructions</a> included in the Latex template), and to verify them. For example, a reproducibility reviewer could check whether it is easy to install the software and run the experiments as documented (potentially using intermediate results / checkpoints for compute-intensive steps), and provide feedback on how to improve reproducibility further. Authors have the chance to act on this feedback to improve their work’s reproducibility as part of the rebuttal.</p>
+<h3 id="what-counts-as-reproducible">What counts as “reproducible”?</h3>
+<p>At this point, we only aim for a limited notion of reproducibility also known as “replicability”: when a reviewer repeats the authors’ steps, can she obtain the same results? Are the results exactly the same given the same seeds? Are results similar across seeds, e.g., with overlapping confidence bounds? Broader notions of reproducibility, such as qualitatively similar results on related datasets, etc., would be great to consider in the future.</p>
+<h3 id="wont-this-cause-a-lot-of-additional-work-for-authors">Won’t this cause a lot of additional work for authors?</h3>
+<p>It does indeed cost time to make your paper reproducible, but it is dramatically more efficient for the authors to do this than for anyone else. Recalling the example above, it would be quite easy for Bob to document the steps he followed right when submitting the paper. It takes more time to do this when Alice asks about the code a few months later. And it takes yet more time (or is impossible) for Alice and other researchers to figure out Bob’s code by themselves. As a silver lining for Bob, papers with properly released code also have a much higher impact on the community than those without code, and when Bob wants to revisit his ideas a year later himself, he also benefits from having left everything in a clean state.</p>
+<h3 id="can-authors-get-extra-time-for-the-code-release">Can authors get extra time for the code release?</h3>
+<p>Yes; the supplemental material is only due a week after the main paper. Also, authors are free to continue updating their anonymous repository during the rebuttal.</p>
+<h3 id="do-authors-have-to-clean-up-their-code">Do authors have to clean up their code?</h3>
+<p>We see two possible ways for code releases:</p>
+<ol>
+<li>The code dump. A quick yet effective way to boost reproducibility: make code &amp; scripts available, with requirements, provide a README detailing how to reproduce results, etc, but don’t spend (“waste”) time to clean it up.</li>
+<li>The open-source software package. Authors that want to build a community around their code may choose to invest more time into the code they release.</li>
+</ol>
+<p>Option 2 tends to achieve greater lasting impact, and we’re thrilled to see such work, but for many papers Option 1 is more efficient; it is perfectly fine in terms of reproducibility.</p>
+<h3 id="who-are-the-reproducibility-reviewers">Who are the reproducibility reviewers?</h3>
+<p>Like other reviewers, these will be volunteers from the community. We expect reproducibility reviewers to be more junior on average than standard reviewers; in our eyes, if it requires a PhD to reproduce a paper’s results then the authors didn’t do their job fully.</p>
+<h3 id="how-do-i-sign-up-as-a-reproducibility-reviewer">How do I sign up as a reproducibility reviewer?</h3>
+<p>Glad you ask! This only works if we have enough volunteers, as we’re aiming to have one reproducibility reviewer per submission. Please sign up here: <a href="https://forms.gle/mxki3gaSN7jZZykH9">https://forms.gle/mxki3gaSN7jZZykH9</a></p>
+<p>This process is very much an experiment, but we hope that it will work and contribute to improving the reproducibility in our field, facilitating its sustained progress 🙂</p>
+
         </div>
+
       </div>
+
+
     </div>
   </div>
 </section>
 
 
-<section data-aos="fade-in">
-  <div class="container-xxl">
-    <div class="row justify-content-center">
 
-
-      
-      <div class="col-xl-5 col-lg-6"><a href="https://2023.automl.cc/competitions/forpapers/">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize"> Call For Papers </h3>
-          <p>Topics of interest include but are not limited to Neural Architecture Search (NAS), Hyperparameter Optimization (HPO) and Combined Algorithm Selection and Hyperparameter Optimization (CASH)</p>
+<section class="section pt-5">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-12">
+        <div class="section-title text-center">
+          <h2 class="title">Recent Articles</h2>
         </div>
-        </a>
       </div>
       
-      <div class="col-xl-5 col-lg-6"><a href="https://2023.automl.cc/competitions/forcompetitions/">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize"> For competitions </h3>
-          <p>AutoML-Conf 2022 invites interested sponsors to choose between the following three sponsorship packages and their associated benefits.</p>
+      
+      
+      <div class="col-lg-5">
+        <article class="card blog-card">
+  <a href="https://2023.automl.cc/blog/wrapping-up-automl-conf-2022-and-introducing-the-2023-edition/" title="Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition">
+  </a>
+  <div class="card-body">
+    <h3 class="card-title"><a href="https://2023.automl.cc/blog/wrapping-up-automl-conf-2022-and-introducing-the-2023-edition/" title="Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition">Wrapping Up AutoML-Conf 2022 and Introducing the 2023 Edition</a></h3>
+    <p>The inaugural AutoML conference 2022 was an exciting adventure for us! With 170 attendees in the very first iteration, …</p>
+  </div>
+  <div class="card-footer bg-transparent border-top-0">
+    <div class="card-author">
+     
+                <div class="user-info">
+          
+          <p class="font-weight-500 mb-0 h5">Frank Hutter, Marius Lindauer</p>
+          
+          <span>Dec 21, 2022</span>
         </div>
-        </a>
+     
+    </div>
+  </div>
+</article>
       </div>
       
-      <div class="col-xl-5 col-lg-6"><a href="https://2023.automl.cc/competitions/forsponsor/">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize"> For sponsors </h3>
-          <p>AutoML-Conf 2022 invites interested sponsors to choose between the following three sponsorship packages and their associated benefits.</p>
+      <div class="col-lg-5">
+        <article class="card blog-card">
+  <a href="https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/" title="Best Paper Award for “Automatic Termination for HPO”">
+  </a>
+  <div class="card-body">
+    <h3 class="card-title"><a href="https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/" title="Best Paper Award for “Automatic Termination for HPO”">Best Paper Award for “Automatic Termination for HPO”</a></h3>
+    <p>At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter …</p>
+  </div>
+  <div class="card-footer bg-transparent border-top-0">
+    <div class="card-author">
+     
+                <div class="user-info">
+          
+          <span>Aug 12, 2022</span>
         </div>
-        </a>
+     
+    </div>
+  </div>
+</article>
       </div>
       
-      
-      </div>
+    </div>
   </div>
 </section>
+
+
 
 
 
