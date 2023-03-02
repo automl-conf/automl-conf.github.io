@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Ethics and Accessibility Guidelines</title>
+      <link>https://2023.automl.cc/ethics/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/ethics/</guid>
+      <description>1. Introduction Both the ethical implications of the research published at the AutoML Conference as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
+    </item>
+    
+    <item>
       <title>Call For Papers</title>
       <link>https://2023.automl.cc/competitions/forpapers/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
@@ -60,15 +69,6 @@ Topics The first international conference on automated machine learning (AutoML-
       
       <guid>https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/</guid>
       <description>At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method.</description>
-    </item>
-    
-    <item>
-      <title>Ethics and Accessibility Guidelines</title>
-      <link>https://2023.automl.cc/ethics/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/ethics/</guid>
-      <description>1. Introduction Both the ethical implications of the research published at the AutoML Conference as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
     <item>
