@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-<title>Best Paper Award for “Automatic Termination for HPO”</title>
+<title>Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets</title>
 
 
 
@@ -42,19 +42,19 @@
 
 
 <!-- Open Graph image and Twitter Card metadata -->
-<meta name="twitter:title" content="Best Paper Award for “Automatic Termination for HPO”"/>
-<meta name="twitter:description" content="At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method."/>
-<meta property="og:title" content="Best Paper Award for “Automatic Termination for HPO”" />
-<meta property="og:description" content="At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method." />
+<meta name="twitter:title" content="Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets"/>
+<meta name="twitter:description" content="AutoML Apps (A), Benchmarks (B), Challenges (C), and Datasets (D) are indispensable for AutoML research and applications."/>
+<meta property="og:title" content="Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets" />
+<meta property="og:description" content="AutoML Apps (A), Benchmarks (B), Challenges (C), and Datasets (D) are indispensable for AutoML research and applications." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://2023.automl.cc/blog/best-paper-award-for-automatic-termination-for-hpo/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2022-08-12T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-08-12T00:00:00+00:00" />
+<meta property="og:url" content="https://2023.automl.cc/calls/forabcd/" /><meta property="article:section" content="calls" />
+<meta property="article:published_time" content="2023-03-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-03-10T00:00:00+00:00" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Best Paper Award for “Automatic Termination for HPO”"/>
-<meta name="twitter:description" content="At the first Conference on Automated Machine Learning (AutoML), the work on Automatic termination for hyperparameter optimization won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method."/>
+<meta name="twitter:title" content="Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets"/>
+<meta name="twitter:description" content="AutoML Apps (A), Benchmarks (B), Challenges (C), and Datasets (D) are indispensable for AutoML research and applications."/>
 
 
 
@@ -298,558 +298,102 @@
 	<main>
 		
 
-
-
-
-
-<section class="section-sm pt-0">
-  <div class="container">
-    <div class="row justify-content-center" data-aos="fade-in">
-      <div class="col-lg-8">
-<br>
-<br>
-<br>
-        <div class="mb-5">
-          <h2>Best Paper Award for “Automatic Termination for HPO”</h2>
-          <div class="d-flex align-items-center card-author mt-4">
-            <div class="user-info">
-              
-              <span>Aug 12, 2022</span>
-            </div>
+<section class="page-header">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="block">
+          <div class="section-title text-center mb-0">
+            <h1 class="title underline-none" data-aos="fade-up">Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets</h1>
+            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
+              <ol class="breadcrumb justify-content-center bg-transparent p-0 mb-0">
+                <li class="breadcrumb-item"><a class="link-primary" href="https://2023.automl.cc/">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets</li>
+              </ol>
+            </nav>
           </div>
         </div>
 
-        <div class="content">
-          <p>At the first Conference on Automated Machine Learning (AutoML), the work on <a href="https://www.amazon.science/publications/automatic-termination-for-hyperparameter-optimization">Automatic termination for hyperparameter optimization</a> won a best-paper award for a new way to decide when to stop Bayesian optimization, a widely used hyperparameter optimization method. In this blog post, we, i.e., the authors of the paper, intuitively explain the main aspects of this work.</p>
-<p>The performance of machine learning models crucially depends on their hyperparameters, but setting them correctly is typically a tedious and expensive task. <em>Hyperparameter optimization</em> (HPO) requires iteratively retraining the model with different hyperparameter configurations in a search for a better one. This poses a question of the trade-off between the time use and the accuracy of the resulting model. The current work on <a href="https://www.amazon.science/publications/automatic-termination-for-hyperparameter-optimization">Automatic termination for hyperparameter optimization</a> suggests a new principled stopping criterion for this problem. At its core, it admits the discrepancy between the <em>generalization error</em> (i.e., true but unknown optimization objective) and its <em>empirical estimator</em> (i.e., objective optimized by HPO). That hints at the intuitive stopping criterion that is triggered once we are unlikely to improve the generalization error.</p>
-<h3 id="hyperparameter-optimization-as-black-box-optimization">Hyperparameter optimization as black-box optimization</h3>
-<p>HPO can be seen as black-box optimization where we sequentially interact with a fixed unknown objective <code>$f(\gamma)$</code> and for a selected input <code>$\gamma_t$</code> observe its noise-perturbed evaluation <code>$y_t$</code>. In HPO, the black-box function to be minimized is a <em>population risk,</em> i.e., performance of the model <code>$M_{\gamma}$</code> trained on some data <code>$D$</code> (e.g., via SGD) evaluated on the unseen data from the distribution <code>$P$</code>. In the evaluation, we observe the noise-perturbed result with the stochasticity coming from the model training.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img title="" loading="lazy" decoding="async" class=" " width="1024" height="217" src="https://2023.automl.cc/images/blog/best_award_2022_1_hucb356d7eed211010ed9b15b9b69cd5c4_49590_1024x217_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_1_hucb356d7eed211010ed9b15b9b69cd5c4_49590_1024x217_resize_box_3.png'">
-
-
-
-
-
-
-
-<p>Bayesian optimization (BO) is a powerful framework for such black-box functions. In its core, for the function <code>$f$</code> with the optimizer <code>$\gamma^∗$</code>, BO searches for better predictive performance via (i) training a probabilistic model (e.g., Gaussian process (GP) or Bayesian neural network) on the evaluations and (ii) acquiring the most promising next hyperparameter candidate. This iterative search lasts until, for example, some user-defined budget. The goal is to minimize the distance between optimal <code>$\gamma^*$</code> and the best configuration <code>$\gamma^∗_t$</code> found before the budget is used. This distance <code>$f(\gamma^*_t)–f(\gamma^∗)$</code> quantifies the convergence of the HPO algorithm.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img title="" loading="lazy" decoding="async" class=" " width="866" height="425" src="https://2023.automl.cc/images/blog/best_award_2022_2_hu8d9c77ed82c9be334efdf6953f7e63fa_69703_866x425_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_2_hu8d9c77ed82c9be334efdf6953f7e63fa_69703_866x425_resize_box_3.png'">
-
-
-
-
-
-
-
-<h3 id="the-discrepancy-between-the-true-objective-and-the-computable-hpo-target">The discrepancy between the <em>true</em> objective and the <em>computable</em> HPO target</h3>
-<p>In the paper, we qualitatively address the question “whether <code>$f$</code> is actually the objective we optimize in practical BO”. The answer is no since the data distribution is unknown in practice. What we actually optimize (and evaluate) is the estimator of the population risk. That is, for some given data (divided into train-validation-test) we evaluate validation set-based value. As the result, the evaluation <code>$y_t$</code> inherits stochasticity not only due to the (1) stochasticity in model training; but also due to (2) data realization.</p>
-<p>That highlights the discrepancy between what we would like to optimize and what we can optimize. As the result, optimizing the empirical estimator too strenuously may actually lead to sub-optimal solutions to the population risk.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img title="" loading="lazy" decoding="async" class=" " width="1024" height="242" src="https://2023.automl.cc/images/blog/best_award_2022_3_hu2d29d44d5cb6261021cd4c2af2fb9629_66244_1024x242_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_3_hu2d29d44d5cb6261021cd4c2af2fb9629_66244_1024x242_resize_box_3.png'">
-
-
-
-
-
-
-
-<h3 id="convergence-criterion-for-hyperparameter-optimization">Convergence criterion for hyperparameter optimization</h3>
-<p>Due to the discrepancy in the objectives, the quality of configurations is judged according to the empirical estimator <code>$\widehat{f}$</code> instead of the true objective <code>$f$</code>. Namely, it is quantified by the regret <code>$\hat{r_t}=\widehat{f}(\gamma_t^*)–\widehat{f}(\gamma_D^*)$</code> computed for the true optimizer <code>$\gamma: \hat{f} \to \widehat{f}$</code> and the best-found solution <code>$\gamma_t^*$</code>(see the figure below).</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img title="" loading="lazy" decoding="async" class=" " width="1022" height="398" src="https://2023.automl.cc/images/blog/best_award_2022_4_hua06966b5a5e7c552541c004da6319a45_83651_1022x398_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_4_hua06966b5a5e7c552541c004da6319a45_83651_1022x398_resize_box_3.png'">
-
-
-
-
-
-
-
-<p>Our termination criterion is based on the observation that the evaluation of a particular hyperparameter configuration inherits the statistical error of the empirical estimator. By the statistical error, we mean, for example, its variance indicating how far, on average, the collection of evaluations is from the expected value. If the statistical error <em>dominates</em> the regret, further reduction of the regret may not improve notably the generalization error. However, neither the statistical error nor the true regret is known. In the paper, we show how to compute estimates of both quantities.</p>
-<h3 id="building-blocks-of-the-termination-criterion">Building blocks of the termination criterion</h3>
-<h5 id="bounding-the-regret">Bounding the regret</h5>
-<p>We derive the regret bounds from the probabilistic model used in Bayesian optimization. The key idea behind the bound is that as long as the model, namely the Gaussian process, is well-calibrated, the function: <code>$\hat{f} \rightarrow \widehat{f}$</code> lies in the interval with upper and lower confidence bounds (see <strong>ucb</strong> and <strong>lcb</strong> below). These are theoretically studied concentration inequalities valid under common assumptions used in BO and HPO (see the paper). Thus, the regret bound can be obtained via the distance between the upper and lower bounds on the function.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img title="" loading="lazy" decoding="async" class=" " width="861" height="423" src="https://2023.automl.cc/images/blog/best_award_2022_5_huee6d76a64f5366a1722dded3f531e106_95938_861x423_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_5_huee6d76a64f5366a1722dded3f531e106_95938_861x423_resize_box_3.png'">
-
-
-
-
-
-
-
-<h5 id="bounding-the-statistical-error">Bounding the statistical error</h5>
-<p>We show how one estimates the statistical error in the case of the prominent cross-validation-based estimator. The characteristics of this estimator, namely bias and variance, are well theoretically studied, which equips us with the ways to estimate them.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img title="" loading="lazy" decoding="async" class=" " width="967" height="376" src="https://2023.automl.cc/images/blog/best_award_2022_6_huc92cb058edc84543222a2a1b89f970ad_96412_967x376_resize_q90_h2_box_3.webp" alt="" onerror="this.onerror='null';this.src='\/images\/blog\/best_award_2022_6_huc92cb058edc84543222a2a1b89f970ad_96412_967x376_resize_box_3.png'">
-
-
-
-
-
-
-
-<p>Our termination criterion, then, is that the statistical error exceeds the maximum plausible improvement. This termination condition adapts to different algorithms or datasets and its computation comes with negligible computational cost on top of training the model for some hyperparameter configuration.</p>
-<h3 id="evaluation">Evaluation</h3>
-<p>We evaluate the stopping criterion over a wide range of HPO and Neural Architecture Search problems, covering the cases where cross-validation is used and when it is not (or can not be). The results show that our method is problem adaptive (in contrast to the baselines). Moreover, it proves an interpretable way to navigate the trade-off between the time use and the accuracy of the resulting model. We encourage you to check the experiments and the main paper for more details.</p>
-
+        <div class="has-circle">
+          <img class="wave-1 w-100" src="images/banner_app.png" alt="*">
         </div>
-
       </div>
-
-
     </div>
   </div>
 </section>
 
 
-
-<section class="section pt-5">
+<section class="section">
   <div class="container">
     <div class="row justify-content-center" data-aos="fade-in">
-      <div class="col-12">
-        <div class="section-title text-center">
-          <h2 class="title">Recent Articles</h2>
+      <div class="col-lg-8">
+
+        <p class="mb-3 font-weight-600 text-primary">Last Edited : Mar 10, 2023</p>
+        <p class="lead text-black-200 mb-5"></p>
+
+        <div class="content">
+          <p>AutoML Apps (A), Benchmarks (B), Challenges (C), and Datasets (D) are indispensable for AutoML research and applications. AutoML apps provide robust tools that work well in practice, Benchmarks help us measure progress, Challenges help us make rapid progress is specific areas, and new Datasets help us address underexplored areas and build better AutoML tools. As the ‘ABCD’ name implies, they form the foundations of our field, hence this track welcomes all impactful work in these directions.</p>
+<p>This call for papers extends the <a href="https://2023.automl.cc/calls/forpapers/">main call for papers</a> by a special track. Please first read the main CfP. Here, we only highlight how this special track differs from the main track. Please note that papers in this track should use a slightly different template (with a different footer). Please check again here soon to find the template.</p>
+<h2 id="single-blind-review">Single-Blind Review</h2>
+<p>Since authors and organizers of systems, benchmarks, challenges, and datasets are often easily identifiable and it is often required to look up the actual framework, submissions to this special track will undergo a single-blind review process, i.e., the authors of the submission should be listed on the front page. In case there is a good reason to submit double-blind, and this does not hinder the review process, authors could also choose to submit double-blind.</p>
+<h2 id="relationship-to-the-main-track">Relationship to the main track</h2>
+<p>Submissions in this track will go through a separate review process, but all accepted papers will appear as part of the main track. The evaluation is equally stringent as the main track. The paper formatting guidelines and publication venue are identical, except for a slightly different footer in the template. For authors doubting between submitting to the main track or the ABCD track, the main criterion is to consider that the reviewing in this track is more focused on evaluating the potential impact of individual systems, benchmarks, challenges, and datasets, rather than on algorithmic advances. Other, practical criteria are the single-blind review and easy discoverability for people looking for AutoML systems, benchmarks, challenges, and datasets.</p>
+<h3 id="font-color3a2a78afont"><font color=#3A2A78>A</font></h3>
+<h3 id="what-makes-a-good-font-color3a2a78automl-appfont-submission-to-this-track">What makes a good <font color=#3A2A78>AutoML app</font> submission to this track?</h3>
+<p>We welcome both open-source AutoML software and applications in this category that help us bridge the gap between theory and practice.
+For software, we follow a similar approach to <a href="https://www.jmlr.org/mloss/">JMLR MLOSS</a> by looking for papers about novel, well-engineered, well-established and well-documented systems. To this end, a submission has to show that:</p>
+<ol>
+<li>It is a novel system that has features or application domains that were not available beforehand.</li>
+<li>It already has an established user base (shown by stars on github, active commit history by several developers, an active issue tracker, etc.)</li>
+<li>It is an open-source software package with an open-source software licence that allows users to easily use and contribute to it.</li>
+<li>It achieves excellent performance on the addressed application domains.</li>
+</ol>
+<p>For applications, we are specifically interested in real-world applications that have taught us valuable lessons in how to apply AutoML in practice. Submissions have to show that:</p>
+<ol>
+<li>It is an actual real-world application of AutoML highlighting aspects of AutoML that are often overlooked in the literature.</li>
+<li>New and/or surprising insights were obtained that are important and generally useful for AutoML practitioners.</li>
+<li>The real-world problem, as well as the developed solutions, are well-described to an extent that allows others to verify the findings.</li>
+</ol>
+<h3 id="font-color3a2a78bfont"><font color=#3A2A78>B</font></h3>
+<h3 id="what-makes-a-good-font-color3a2a78benchmarkfont-submission-to-this-track">What makes a good <font color=#3A2A78>benchmark</font> submission to this track?</h3>
+<p>The progress in the field of AutoML is often driven by empirical results. Although the community has made tremendous progress in defining best practices and benchmarks in recent years, we invite submission to further enhance the quality of benchmarking in AutoML. This could include (but is not strictly limited to):</p>
+<ol>
+<li>Demonstrating pitfalls and proposing pitfalls in benchmarking AutoML systems</li>
+<li>Proposing new benchmarks (e.g., similar to HPOBench for hyperparameter optimization or the NASBench series for neural architecture search) or substantial extensions of existing benchmarks</li>
+<li>Approaches for more efficient benchmarking</li>
+</ol>
+<p>For all submissions, it is important that all benchmarking data, tools are easily accessible and that all benchmarking results are easily reproducible. All necessary datasets, code, and evaluation procedures must be accessible and well-documented.</p>
+<h3 id="font-color3a2a78cfont"><font color=#3A2A78>C</font></h3>
+<h3 id="what-makes-a-good-font-color3a2a78challengefont-submission-to-this-track">What makes a good <font color=#3A2A78>challenge</font> submission to this track?</h3>
+<p>In recent years, there were many challenges on AutoML, AutoDL and HPO pushing the community to new heights. Since neither running a meaningful competition is trivial nor gaining thorough insights from it, we invite submissions on the following topics:</p>
+<ol>
+<li>Design and visions for future challenges on AutoML</li>
+<li>Post-challenge analysis, highlighting gained insights and future open tasks</li>
+<li>Methodology and best practices for organizing AutoML challenges</li>
+</ol>
+<p>We note that especially post-challenge analysis and insights can also be described by attendees and not only by organizers.</p>
+<h3 id="font-color3a2a78dfont"><font color=#3A2A78>D</font></h3>
+<h3 id="what-makes-a-good-font-color3a2a78datasetfont-submission-to-this-track">What makes a good <font color=#3A2A78>dataset</font> submission to this track?</h3>
+<p>We welcome all types of new datasets, collections of datasets, or meta-datasets that open up new avenues of research into better AutoML systems. These include new datasets on underexplored areas of AutoML (e.g. imperfect, multi-modal, or multi-objective data), meta-datasets that contain hyperparameter configurations and their performance on many tasks, large datasets to pretrain AutoML methods, and many more. Submissions have to show that they are:</p>
+<ol>
+<li>Impactful. It must be clear how the dataset benefits AutoML research and/or its (future) applicability in the real world.</li>
+<li>Well-documented. The content of the data and how it was collected, and how it is intended to be used must be well-described. We recommend using data documentation frameworks such as datasheets for datasets.</li>
+<li>Easily accessible and easy to use. There must be a clear reference or URL to the website/platform where the dataset can be viewed and downloaded.</li>
+<li>Well-maintained. There should be sustainable hosting, licensing and a maintenance plan to ensure that the dataset will be accessible for the foreseeable future.</li>
+</ol>
+<h2 id="important-dates">Important dates</h2>
+<p><strong>Paper Submission deadline:</strong> April 13th, 2023</p>
+<p><strong>Review deadline:</strong> May 10th, 2023</p>
+<p><strong>Rebuttal period:</strong> May 15th - May 19th, 2023</p>
+<p><strong>Author Notification:</strong>  May 29th, 2023</p>
+<h2 id="abcd-track-chair">ABCD Track Chair</h2>
+<p>Joaquin Vanschoren, <a href="mailto:j.vanschoren@tue.nl">j.vanschoren@tue.nl</a></p>
+
         </div>
       </div>
-      
-      
-      
-      <div class="col-lg-5">
-        <article class="card blog-card">
-  <a href="https://2023.automl.cc/calls/forabcd/" title="Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets">
-  </a>
-  <div class="card-body">
-    <h3 class="card-title"><a href="https://2023.automl.cc/calls/forabcd/" title="Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets">Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets</a></h3>
-    <p>AutoML Apps (A), Benchmarks (B), Challenges (C), and Datasets (D) are indispensable for AutoML research and …</p>
-  </div>
-  <div class="card-footer bg-transparent border-top-0">
-    <div class="card-author">
-     
-                <div class="user-info">
-          
-          <span>Mar 10, 2023</span>
-        </div>
-     
-    </div>
-  </div>
-</article>
-      </div>
-      
-      <div class="col-lg-5">
-        <article class="card blog-card">
-  <a href="https://2023.automl.cc/calls/fortutorials/" title="Call for Tutorials">
-  </a>
-  <div class="card-body">
-    <h3 class="card-title"><a href="https://2023.automl.cc/calls/fortutorials/" title="Call for Tutorials">Call for Tutorials</a></h3>
-    <p>We invite proposals for tutorials, to be held on both the first day of the main conference (September 13th, 2023) and …</p>
-  </div>
-  <div class="card-footer bg-transparent border-top-0">
-    <div class="card-author">
-     
-                <div class="user-info">
-          
-          <span>Feb 16, 2023</span>
-        </div>
-     
-    </div>
-  </div>
-</article>
-      </div>
-      
     </div>
   </div>
 </section>
-
-
-
-
-
 
 
 	</main>
