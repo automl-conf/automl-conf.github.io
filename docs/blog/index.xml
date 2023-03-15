@@ -6,7 +6,16 @@
     <description>Recent content in Blog on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Hybrid Conferences</title>
+      <link>https://2023.automl.cc/blog/hybrid-conference/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/blog/hybrid-conference/</guid>
+      <description>Conferences offer us a platform to disseminate the latest research, connect with our peers and get exposed to new ideas.</description>
+    </item>
+    
     <item>
       <title>Applications, Benchmarks, Competitions, and Datasets. Introducing the ABCD track</title>
       <link>https://2023.automl.cc/blog/abcd-track/</link>
