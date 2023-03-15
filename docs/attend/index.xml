@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attend on AutoML 2023</title>
+    <link>https://2023.automl.cc/attend/</link>
+    <description>Recent content in Attend on AutoML 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/attend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hotels</title>
+      <link>https://2023.automl.cc/attend/hotels/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/attend/hotels/</guid>
+      <description>B&amp;amp;B Hotel Berlin-Tiergarten S-Bahn Station Tiergarten (~26min by train)
+Hotel Art Nouveau S-Bahn Station Charlottenburg - (~20min by train)</description>
+    </item>
+    
+  </channel>
+</rss>
