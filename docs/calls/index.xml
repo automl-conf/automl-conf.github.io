@@ -6,7 +6,16 @@
     <description>Recent content in Calls on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/calls/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/calls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for AutoML Workshop Papers</title>
+      <link>https://2023.automl.cc/calls/forworkshop/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/calls/forworkshop/</guid>
+      <description>This call for workshop papers overwrites the call for papers for the main track.</description>
+    </item>
+    
     <item>
       <title>Call for Papers on AutoML Apps, Benchmarks, Challenges, and Datasets (ABCD)</title>
       <link>https://2023.automl.cc/calls/forabcd/</link>
