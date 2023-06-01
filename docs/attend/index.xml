@@ -6,7 +6,16 @@
     <description>Recent content in Attend on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/attend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/attend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://2023.automl.cc/attend/code_of_conduct/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/attend/code_of_conduct/</guid>
+      <description>The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the goals of this conference on automated machine learning; this requires a community and an environment that recognizes and respects the inherent worth of every person.</description>
+    </item>
+    
     <item>
       <title>Hotels</title>
       <link>https://2023.automl.cc/attend/hotels/</link>
