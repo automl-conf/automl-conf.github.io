@@ -6,7 +6,16 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel Awards</title>
+      <link>https://2023.automl.cc/attend/travel_awards/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/attend/travel_awards/</guid>
+      <description>To support researchers in need of financial assistance (for whatever reason), we have a small number of limited travel awards available.</description>
+    </item>
+    
     <item>
       <title>Code of Conduct</title>
       <link>https://2023.automl.cc/attend/code_of_conduct/</link>
