@@ -6,16 +6,7 @@
     <description>Recent content in Calls on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/calls/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Call for Contributions to the Journal Track</title>
-      <link>https://2023.automl.cc/calls/forcontributions/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/calls/forcontributions/</guid>
-      <description>We invite submissions to the journal track of the AutoML. This provides the opportunity for the community to present their recently published top-tier journal papers on AutoML topics (see main track for a list of topics) and increase their visibility.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/calls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for AutoML Workshop Papers</title>
       <link>https://2023.automl.cc/calls/forworkshop/</link>
@@ -51,6 +42,15 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       
       <guid>https://2023.automl.cc/calls/fortutorials/</guid>
       <description>We invite proposals for tutorials, to be held on both the first day of the main conference (September 13th, 2023) and the industry day immediately prior to the main conference (September 12th, 2023).</description>
+    </item>
+    
+    <item>
+      <title>Call for Contributions to the Journal Track</title>
+      <link>https://2023.automl.cc/calls/forcontributions/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/calls/forcontributions/</guid>
+      <description>We invite submissions to the journal track of the AutoML. This provides the opportunity for the community to present their recently published top-tier journal papers on AutoML topics (see main track for a list of topics) and increase their visibility.</description>
     </item>
     
     <item>

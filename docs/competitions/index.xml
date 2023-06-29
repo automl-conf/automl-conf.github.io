@@ -6,14 +6,33 @@
     <description>Recent content in Competitions on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/competitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/competitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AutoML Cup 2023</title>
-      <link>https://2023.automl.cc/competitions/automl-cup/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Call For Papers</title>
+      <link>https://2023.automl.cc/competitions/forpapers/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://2023.automl.cc/competitions/automl-cup/</guid>
-      <description>The AutoML Cup is a competition that will challenge participants to design AutoML methods that perform well on a diverse set of tasks and data settings.</description>
+      <guid>https://2023.automl.cc/competitions/forpapers/</guid>
+      <description>See Dates for all deadlines and openreview for submitting.
+Topics The first international conference on automated machine learning (AutoML-Conf 2022) brings together researchers and users, with the goals of developing automated methods for speeding up the development of machine learning applications, obtaining improved performance, and thereby democratizing machine learning.</description>
+    </item>
+    
+    <item>
+      <title>For competitions</title>
+      <link>https://2023.automl.cc/competitions/forcompetitions/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/competitions/forcompetitions/</guid>
+      <description>1. Introduction Both the ethical implications of the research published at the AutoML-Conf as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
+    </item>
+    
+    <item>
+      <title>For sponsors</title>
+      <link>https://2023.automl.cc/competitions/forsponsor/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/competitions/forsponsor/</guid>
+      <description>1. Introduction Both the ethical implications of the research published at the AutoML-Conf as well as its accessibility to everyone are key concerns that should be addressed by authors and reviewers.</description>
     </item>
     
   </channel>

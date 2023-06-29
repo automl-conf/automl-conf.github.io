@@ -6,41 +6,23 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Call for Contributions to the Journal Track</title>
-      <link>https://2023.automl.cc/calls/forcontributions/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Accepted papers</title>
+      <link>https://2023.automl.cc/program/accepted_papers/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://2023.automl.cc/calls/forcontributions/</guid>
-      <description>We invite submissions to the journal track of the AutoML. This provides the opportunity for the community to present their recently published top-tier journal papers on AutoML topics (see main track for a list of topics) and increase their visibility.</description>
+      <guid>https://2023.automl.cc/program/accepted_papers/</guid>
+      <description>Meta-Learning for Fast Model Recommendation in Unsupervised Multivariate Time Series Anomaly Detection - Jose Manuel Navarro, Alexis Huet, Dario Rossi Computationally Efficient High-Dimensional Bayesian Optimization via Variable Selection - Yihang Shen, Carl Kingsford Q(D)O-ES: Population-based Quality (Diversity) Optimisation for Post Hoc Ensemble Selection in AutoML - Lennart Oswald Purucker, Lennart Schneider, Marie Anastacio, Joeran Beel, Bernd Bischl, Holger Hoos Searching for Fairer Machine Learning Ensembles - Michael Feffer, Martin Hirzel, Samuel C Hoffman, Kiran Kate, Parikshit Ram, Avraham Shinnar Learning Activation Functions for Sparse Neural Networks - Mohammad Loni, Aditya Mohan, Mehdi Asadi, Marius Lindauer AutoRL Hyperparameter Landscapes - Aditya Mohan, Carolin Benjamins, Konrad Wienecke, Alexander Dockhorn, Marius Lindauer **Neural Architecture Search for Visual Anomaly Segmentation ** - Tommie Kerssies, Joaquin Vanschoren Better Practices for Domain Adaptation - Linus Ericsson, Da Li, Timothy Hospedales Multi-Predict: Few Shot Predictors For Efficient Neural Architecture Search - Yash Akhauri, Mohamed S Abdelfattah Self-Adjusting Weighted Expected Improvement for Bayesian Optimization - Carolin Benjamins, Elena Raponi, Anja Jankovic, Carola Doerr, Marius Lindauer Poisson Process for Bayesian Optimization - Xiaoxing Wang, Jiaxing Li, Chao Xue, Wei Liu, Weifeng Liu, Xiaokang Yang, Junchi Yan, Dacheng Tao CMA-ES for Post Hoc Ensembling in AutoML: A Great Success and Salvageable Failure - Lennart Oswald Purucker, Joeran Beel MEOW - Multi-Objective Evolutionary Weapon Detection - Daniel Dimanov, Colin Singleton, Shahin Rostami, Emili Balaguer-Ballester Symbolic Explanations for Hyperparameter Optimization - Sarah Segel, Helena Graf, Alexander Tornede, Bernd Bischl, Marius Lindauer PS-AAS: Portfolio Selection for Automated Algorithm Selection in Black-Box Optimization - Ana Kostovska, Gjorgjina Cenikj, Diederick Vermetten, Anja Jankovic, Ana Nikolikj, Urban Skvorc, Peter Korosec, Carola Doer Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference - Chi Wang, Xueqing Liu, Ahmed Hassan Awadallah Optimal Resource Allocation for Early Stopping-based Neural Architecture Search Methods - Marcel Aach, Eray Inanc, Rakesh Sarma, Morris Riedel, Andreas Lintermann Balanced Mixture of Supernets for Learning the CNN Pooling Architecture - Mehraveh Javan Roshtkhari, Matthew Toews, Marco Pedersoli , &amp;ldquo;No Free Lunch&amp;rdquo; in Neural Architectures?</description>
     </item>
     
     <item>
-      <title>Conference Program</title>
-      <link>https://2023.automl.cc/program/program/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/program/</guid>
-      <description>This is a preliminary program. There may be minor updates to it in the coming weeks.</description>
-    </item>
-    
-    <item>
-      <title>Social Program</title>
+      <title>Social program</title>
       <link>https://2023.automl.cc/program/social_program/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/social_program/</guid>
       <description>This year, we will again have a fun and inclusive social program for everyone.</description>
-    </item>
-    
-    <item>
-      <title>Visa Letter</title>
-      <link>https://2023.automl.cc/attend/visa_letter/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/attend/visa_letter/</guid>
-      <description>Please note that letters of invitation to AutoML Conference 2023 are only available for registered participants.</description>
     </item>
     
     <item>
@@ -59,15 +41,6 @@
       
       <guid>https://2023.automl.cc/attend/volunteer_discount/</guid>
       <description>Students can obtain a free registration by applying to volunteer in person for 2 hours at AutoML&#39;23.</description>
-    </item>
-    
-    <item>
-      <title>AutoML Cup 2023</title>
-      <link>https://2023.automl.cc/competitions/automl-cup/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/competitions/automl-cup/</guid>
-      <description>The AutoML Cup is a competition that will challenge participants to design AutoML methods that perform well on a diverse set of tasks and data settings.</description>
     </item>
     
     <item>
@@ -141,7 +114,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/dates/</guid>
-      <description>Conference: September 13th – 15th 2023 Industry day: September 12th Registration Timeline Datetime (AOE) Early registration deadline July 13th, 2023 Submission Timeline for Call for Papers Paper submission via OpenReview link Datetime (AOE) Paper submission opens February 17th, 2023 Abstract submission* March 20th, 2023 Paper submission March 23rd, 2023 Assignment to ACs &amp;amp; reviewers March 24th, 2023 Review deadline April 12th, 2023 Rebuttal period (OpenReview will remain open for authors to answer clarifications by reviewers/ACs afterwards) April 23rd - May 1st, 2023 Reviewer/AC discussion period May 1st - May 8th, 2023 AC meta-review due May 9th, 2023 AC/PC discussion period May 10th - May 15th, 2023 Author notification May 16th, 2023 Camera-ready final submission deadline August 9th, 2023 Deadline for recorded talks** TBA AOE - Anywhere on Earth</description>
+      <description>Conference: September 13th – 15th 2023 Industry day: September 12th Submission Timeline for Call for Papers Paper submission via OpenReview link Datetime (AOE) Paper submission opens February 17th, 2023 Abstract submission* March 20th, 2023 Paper submission March 23rd, 2023 Assignment to ACs &amp;amp; reviewers March 24th, 2023 Review deadline April 12th, 2023 Rebuttal period (OpenReview will remain open for authors to answer clarifications by reviewers/ACs afterwards) April 23rd - May 1st, 2023 Reviewer/AC discussion period May 1st - May 8th, 2023 AC meta-review due May 9th, 2023 AC/PC discussion period May 10th - May 15th, 2023 Author notification May 16th, 2023 Camera-ready final submission deadline August 9th, 2023 Deadline for recorded talks** TBA AOE - Anywhere on Earth</description>
     </item>
     
     <item>
@@ -151,6 +124,15 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       
       <guid>https://2023.automl.cc/calls/fortutorials/</guid>
       <description>We invite proposals for tutorials, to be held on both the first day of the main conference (September 13th, 2023) and the industry day immediately prior to the main conference (September 12th, 2023).</description>
+    </item>
+    
+    <item>
+      <title>Call for Contributions to the Journal Track</title>
+      <link>https://2023.automl.cc/calls/forcontributions/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/calls/forcontributions/</guid>
+      <description>We invite submissions to the journal track of the AutoML. This provides the opportunity for the community to present their recently published top-tier journal papers on AutoML topics (see main track for a list of topics) and increase their visibility.</description>
     </item>
     
     <item>
