@@ -6,7 +6,25 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AutoML Cup 2023</title>
+      <link>https://2023.automl.cc/competitions/automl-cup/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/competitions/automl-cup/</guid>
+      <description>The AutoML Cup is a competition that will challenge participants to design AutoML methods that perform well on a diverse set of tasks and data settings.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://2023.automl.cc/program/program/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/program/</guid>
+      <description>This is a preliminary program. There may be minor updates to it in the coming weeks.</description>
+    </item>
+    
     <item>
       <title>Pricing</title>
       <link>https://2023.automl.cc/attend/pricing/</link>
@@ -44,15 +62,6 @@
     </item>
     
     <item>
-      <title>Schedule</title>
-      <link>https://2023.automl.cc/program/program/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/program/</guid>
-      <description>This is a preliminary program. There may be minor updates to it in the coming weeks.</description>
-    </item>
-    
-    <item>
       <title>Social Program</title>
       <link>https://2023.automl.cc/program/social_program/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
@@ -86,15 +95,6 @@
       
       <guid>https://2023.automl.cc/attend/volunteer_discount/</guid>
       <description>Students can obtain a free registration by applying to volunteer in person for 2 hours at AutoML&#39;23.</description>
-    </item>
-    
-    <item>
-      <title>AutoML Cup 2023</title>
-      <link>https://2023.automl.cc/competitions/automl-cup/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/competitions/automl-cup/</guid>
-      <description>The AutoML Cup is a competition that will challenge participants to design AutoML methods that perform well on a diverse set of tasks and data settings.</description>
     </item>
     
     <item>
