@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://2023.automl.cc/</loc>
-    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/program/keynotes/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/program/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://2023.automl.cc/competitions/automl-cup/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://2023.automl.cc/competitions/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://2023.automl.cc/program/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://2023.automl.cc/program/program/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
@@ -22,6 +25,9 @@
   </url><url>
     <loc>https://2023.automl.cc/attend/pricing/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://2023.automl.cc/program/tutorials/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
@@ -94,9 +100,33 @@
   </url><url>
     <loc>https://2023.automl.cc/categories/</loc>
   </url><url>
+    <loc>https://2023.automl.cc/program/keynotes/esteban-real/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/keynotes/eytan-bakshy/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/keynotes/hayeon-lee/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/keynotes/madeleine-udell/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/keynotes/mihaela-van-der-schaar/</loc>
+  </url><url>
     <loc>https://2023.automl.cc/organizers/</loc>
   </url><url>
     <loc>https://2023.automl.cc/tags/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/apples-and-apples/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/autogluon/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/language-modelling-for-optimization/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/meta-learning/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/meta-reinforcement/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/opensourcevizier/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/survey-of-methods/</loc>
   </url><url>
     <loc>https://2023.automl.cc/venue/</loc>
   </url>
