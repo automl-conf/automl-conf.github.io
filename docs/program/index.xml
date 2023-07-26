@@ -6,7 +6,7 @@
     <description>Recent content in Programs on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Schedule</title>
       <link>https://2023.automl.cc/program/program/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://2023.automl.cc/program/program/</guid>
       <description>This is a preliminary program. There may be minor updates to it in the coming weeks.</description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>https://2023.automl.cc/program/tutorials/</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/tutorials/</guid>
-      <description></description>
     </item>
     
     <item>

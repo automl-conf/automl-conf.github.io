@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keynotes on AutoML 2023</title>
+    <link>https://2023.automl.cc/program/keynotes/</link>
+    <description>Recent content in Keynotes on AutoML 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/keynotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keynote</title>
+      <link>https://2023.automl.cc/program/keynotes/esteban-real/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/keynotes/esteban-real/</guid>
+      <description>AutoML-Zero to One: Discovering Machine Learning from Simple PrimitivesEsteban RealStaff Research Scientist, Google DeepmindDate: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://2023.automl.cc/program/keynotes/eytan-bakshy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/keynotes/eytan-bakshy/</guid>
+      <description>Beyond loss: Efficient optimization of living machine learning systemsEytan BakshyDirector and research scientist, MetaDate: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://2023.automl.cc/program/keynotes/hayeon-lee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/keynotes/hayeon-lee/</guid>
+      <description>Transferable Neural Architecture Search with Diffusion Models for the Real WorldHayeon LeeKorea Advanced Institute of Science and Technology (KAIST)Date: Friday, Sep 15, 2023, 14:00 - 15:00Abstract: TBD</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://2023.automl.cc/program/keynotes/madeleine-udell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/keynotes/madeleine-udell/</guid>
+      <description>Recommending LearnersMadeleine UdellAssistant Professor, Stanford UniversityDate: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://2023.automl.cc/program/keynotes/mihaela-van-der-schaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/keynotes/mihaela-van-der-schaar/</guid>
+      <description>Patterns, Prognosis, and Pitfalls: AutoML&#39;s Unique Challenges in HealthcareMihaela van der SchaarUniversity of CambridgeDate: Wednesday, Sep 13, 2023, 9:30 - 10:30Abstract: TBD</description>
+    </item>
+    
+  </channel>
+</rss>
