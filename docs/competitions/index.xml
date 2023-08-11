@@ -6,11 +6,11 @@
     <description>Recent content in Competitions on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/competitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/competitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AutoML Cup 2023</title>
       <link>https://2023.automl.cc/competitions/automl-cup/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/competitions/automl-cup/</guid>
       <description>The AutoML Cup is a competition that will challenge participants to design AutoML methods that perform well on a diverse set of tasks and data settings.</description>
