@@ -6,7 +6,16 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Experience</title>
+      <link>https://2023.automl.cc/attend/online_experience/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/attend/online_experience/</guid>
+      <description>As announced in our blog post, we are thrilled to have a hybrid conference.</description>
+    </item>
+    
     <item>
       <title>AutoML Cup 2023</title>
       <link>https://2023.automl.cc/competitions/automl-cup/</link>
