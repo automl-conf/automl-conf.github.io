@@ -6,11 +6,30 @@
     <description>Recent content in Programs on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Program</title>
+      <link>https://2023.automl.cc/program/social_program/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/social_program/</guid>
+      <description>This year, we will again have a fun and inclusive social program for everyone.</description>
+    </item>
+    
+    <item>
+      <title>Accepted papers</title>
+      <link>https://2023.automl.cc/program/accepted_papers/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/accepted_papers/</guid>
+      <description>Main Conference Track Poster session 1a + 1b
+Searching for Fairer Machine Learning Ensembles - Michael Feffer, Martin Hirzel, Samuel C Hoffman, Kiran Kate, Parikshit Ram, Avraham Shinnar OpenReview PDF Video Teaser Neural Architecture Search for Visual Anomaly Segmentation - Tommie Kerssies, Joaquin Vanschoren OpenReview PDF Video Teaser Better Practices for Domain Adaptation - Linus Ericsson, Da Li, Timothy Hospedales OpenReview PDF Video Teaser Multi-Predict: Few Shot Predictors For Efficient Neural Architecture Search - Yash Akhauri, Mohamed S Abdelfattah OpenReview PDF Video Teaser Self-Adjusting Weighted Expected Improvement for Bayesian Optimization - Carolin Benjamins, Elena Raponi, Anja Jankovic, Carola Doerr, Marius Lindauer OpenReview PDF Video Teaser CMA-ES for Post Hoc Ensembling in AutoML: A Great Success and Salvageable Failure - Lennart Oswald Purucker, Joeran Beel OpenReview PDF Video Teaser Symbolic Explanations for Hyperparameter Optimization - Sarah Segel, Helena Graf, Alexander Tornede, Bernd Bischl, Marius Lindauer OpenReview PDF Video Teaser PS-AAS: Portfolio Selection for Automated Algorithm Selection in Black-Box Optimization - Ana Kostovska, Gjorgjina Cenikj, Diederick Vermetten, Anja Jankovic, Ana Nikolikj, Urban Skvorc, Peter Korosec, Carola Doerr, Tome Eftimov OpenReview PDF Video Teaser Balanced Mixture of Supernets for Learning the CNN Pooling Architecture - Mehraveh Javan Roshtkhari, Matthew Toews, Marco Pedersoli OpenReview PDF Video Teaser &amp;ldquo;No Free Lunch&amp;rdquo; in Neural Architectures?</description>
+    </item>
+    
     <item>
       <title>Schedule</title>
       <link>https://2023.automl.cc/program/program/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/program/</guid>
       <description>This is a preliminary program. There may be minor updates to it in the coming weeks.</description>
@@ -23,25 +42,6 @@
       
       <guid>https://2023.automl.cc/program/tutorials/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Accepted papers</title>
-      <link>https://2023.automl.cc/program/accepted_papers/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/accepted_papers/</guid>
-      <description>Main Conference Track Poster session 1a + 1b
-Searching for Fairer Machine Learning Ensembles - Michael Feffer, Martin Hirzel, Samuel C Hoffman, Kiran Kate, Parikshit Ram, Avraham Shinnar Learning Activation Functions for Sparse Neural Networks - Mohammad Loni, Aditya Mohan, Mehdi Asadi, Marius Lindauer AutoRL Hyperparameter Landscapes - Aditya Mohan, Carolin Benjamins, Konrad Wienecke, Alexander Dockhorn, Marius Lindauer Neural Architecture Search for Visual Anomaly Segmentation - Tommie Kerssies, Joaquin Vanschoren Better Practices for Domain Adaptation - Linus Ericsson, Da Li, Timothy Hospedales Multi-Predict: Few Shot Predictors For Efficient Neural Architecture Search - Yash Akhauri, Mohamed S Abdelfattah Self-Adjusting Weighted Expected Improvement for Bayesian Optimization - Carolin Benjamins, Elena Raponi, Anja Jankovic, Carola Doerr, Marius Lindauer CMA-ES for Post Hoc Ensembling in AutoML: A Great Success and Salvageable Failure - Lennart Oswald Purucker, Joeran Beel Symbolic Explanations for Hyperparameter Optimization - Sarah Segel, Helena Graf, Alexander Tornede, Bernd Bischl, Marius Lindauer PS-AAS: Portfolio Selection for Automated Algorithm Selection in Black-Box Optimization - Ana Kostovska, Gjorgjina Cenikj, Diederick Vermetten, Anja Jankovic, Ana Nikolikj, Urban Skvorc, Peter Korosec, Carola Doerr, Tome Eftimov Balanced Mixture of Supernets for Learning the CNN Pooling Architecture - Mehraveh Javan Roshtkhari, Matthew Toews, Marco Pedersoli , &amp;ldquo;No Free Lunch&amp;rdquo; in Neural Architectures?</description>
-    </item>
-    
-    <item>
-      <title>Social Program</title>
-      <link>https://2023.automl.cc/program/social_program/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/social_program/</guid>
-      <description>This year, we will again have a fun and inclusive social program for everyone.</description>
     </item>
     
   </channel>
