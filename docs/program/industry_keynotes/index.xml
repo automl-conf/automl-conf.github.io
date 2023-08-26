@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry Keynotes on AutoML 2023</title>
+    <link>https://2023.automl.cc/program/industry_keynotes/</link>
+    <description>Recent content in Industry Keynotes on AutoML 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/industry_keynotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Industry Day Keynote</title>
+      <link>https://2023.automl.cc/program/industry_keynotes/andreas-mueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/industry_keynotes/andreas-mueller/</guid>
+      <description>From AutoML to AutoDSAndreas MüllerDate: Tuesday, Sep 12, 2023, Abstract: Both the AutoML community, and the wider ML community continue to focus on a very narrow set of tasks for ML, that are quite removed from everyday challenges of a Data Scientist.</description>
+    </item>
+    
+  </channel>
+</rss>
