@@ -254,6 +254,33 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
     </item>
     
     <item>
+      <title>Industry Day Keynote</title>
+      <link>https://2023.automl.cc/program/industry_keynotes/herbrich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/industry_keynotes/herbrich/</guid>
+      <description>TBDRalf HerbrichDate: Tuesday, Sep 12, 2023, 9:00 - 9:30Abstract: TBD</description>
+    </item>
+    
+    <item>
+      <title>Industry Day Keynote</title>
+      <link>https://2023.automl.cc/program/industry_keynotes/jitsev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/industry_keynotes/jitsev/</guid>
+      <description>Reproducible science of transferable learning with open foundation modelsJenia JitsevDate: Tuesday, Sep 12, 2023, 10:00 - 10:30Abstract: TBD</description>
+    </item>
+    
+    <item>
+      <title>Industry Day Keynote</title>
+      <link>https://2023.automl.cc/program/industry_keynotes/mihaela-van-der-schaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/industry_keynotes/mihaela-van-der-schaar/</guid>
+      <description>Data-Centric AI and the importance of AutoMLMihaela van der SchaarUniversity of CambridgeDate: Tuesday, Sep 12, 2023, 9:30 - 10:00Abstract: TBD</description>
+    </item>
+    
+    <item>
       <title>Industry Day Panel</title>
       <link>https://2023.automl.cc/program/panels/panel1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -264,11 +291,11 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
     
     <item>
       <title>Keynote</title>
-      <link>https://2023.automl.cc/program/industry_keynotes/mihaela-van-der-schaar/</link>
+      <link>https://2023.automl.cc/program/industry_keynotes/tsamardinos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://2023.automl.cc/program/industry_keynotes/mihaela-van-der-schaar/</guid>
-      <description>Data-Centric AI and the importance of AutoMLMihaela van der SchaarUniversity of CambridgeDate: Tuesday, Sep 12, 2023, 9:30 - 10:00Abstract: TBD</description>
+      <guid>https://2023.automl.cc/program/industry_keynotes/tsamardinos/</guid>
+      <description>Feature Selection and Knowledge Discovery in AutoML and Automated Causal DiscoveryIoannis TsamardinosDate: Tuesday, Sep 12, 2023, 14:30 - 15:00Abstract: It is often the case that the primary goal of an analysis is not model construction, but discovering new knowledge in the form of the features that determine the predictions.</description>
     </item>
     
     <item>
