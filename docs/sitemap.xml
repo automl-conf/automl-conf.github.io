@@ -41,6 +41,9 @@
     <loc>https://2023.automl.cc/attend/pricing/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://2023.automl.cc/program/industry_talks/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://2023.automl.cc/program/panels/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -149,6 +152,8 @@
     <loc>https://2023.automl.cc/program/tutorials/autogluon/</loc>
   </url><url>
     <loc>https://2023.automl.cc/program/tutorials/language-modelling-for-optimization/</loc>
+  </url><url>
+    <loc>https://2023.automl.cc/program/tutorials/llm-based-auto-survey/</loc>
   </url><url>
     <loc>https://2023.automl.cc/program/tutorials/meta-learning/</loc>
   </url><url>
