@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/autogluon/</guid>
-      <description>AutoGluon v1.0: Shattering the AutoML Ceiling with Zero Lines of Code Date: Tuesday, Sep 12, 2023, 11:00 - 13:00Speakers:Nick Erickson, Amazon Oleksandr Shchur, Amazon David Salinas, Amazon Website:https://sites.</description>
+      <description>AutoGluon v1.0: Shattering the AutoML Ceiling with Zero Lines of Code Date: Tuesday, Sep 12, 2023, 16:30 - 18:30Speakers:Nick Erickson, Amazon Oleksandr Shchur, Amazon David Salinas, Amazon Website:https://sites.</description>
     </item>
     
     <item>
@@ -32,6 +32,15 @@
       
       <guid>https://2023.automl.cc/program/tutorials/language-modelling-for-optimization/</guid>
       <description>Language Modelling for OptimizationDate: Wednesday, Sep 13, 2023, 14:30 - 16:00Speakers:Xingyou Song, Google Deepmind Yutian Chen, Google Deepmind Website:https://sites.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://2023.automl.cc/program/tutorials/llm-based-auto-survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/tutorials/llm-based-auto-survey/</guid>
+      <description>Hands-on tutorial on the LLM-based Auto-Survey CompetitionDate: Wednesday, Sep 13, 2023, 11:00 - 12:30Speakers:Lisheng Sun-Hosoya, Université Paris-Saclay, France Website:https://sites.</description>
     </item>
     
     <item>
@@ -58,7 +67,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/opensourcevizier/</guid>
-      <description>Open Source Vizier: Google’s Blackbox and Hyperparameter Optimization at Scale Date: Tuesday, Sep 12, 2023, 16:00 - 18:00Speakers:Xingyou Song, Google Deepmind Qiuyi Zhang, Google Deepmind Sagi Perel, Google Deepmind Website:https://sites.</description>
+      <description>Open Source Vizier: Google’s Blackbox and Hyperparameter Optimization at Scale Date: Tuesday, Sep 12, 2023, 11:00 - 12:30Speakers:Xingyou Song, Google Deepmind Qiuyi Zhang, Google Deepmind Sagi Perel, Google Deepmind Website:https://sites.</description>
     </item>
     
     <item>
