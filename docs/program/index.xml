@@ -8,22 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/program/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Accepted papers</title>
+      <link>https://2023.automl.cc/program/accepted_papers/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/accepted_papers/</guid>
+      <description>Main Conference Track Poster session 1a + 1b
+Searching for Fairer Machine Learning Ensembles - Michael Feffer, Martin Hirzel, Samuel C Hoffman, Kiran Kate, Parikshit Ram, Avraham Shinnar OpenReview PDF Video Teaser Discord channel Room for poster presentation: D-Space</description>
+    </item>
+    
+    <item>
       <title>Schedule</title>
       <link>https://2023.automl.cc/program/program/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/program/</guid>
       <description>https://ml.informatik.uni-freiburg.de/automl-conf-2023/ The password will be sent to participants shortly before the conference.</description>
-    </item>
-    
-    <item>
-      <title>Accepted papers</title>
-      <link>https://2023.automl.cc/program/accepted_papers/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/accepted_papers/</guid>
-      <description>Main Conference Track Poster session 1a + 1b
-Searching for Fairer Machine Learning Ensembles - Michael Feffer, Martin Hirzel, Samuel C Hoffman, Kiran Kate, Parikshit Ram, Avraham Shinnar OpenReview PDF Video Teaser Room for poster presentation: D-Space</description>
     </item>
     
     <item>
