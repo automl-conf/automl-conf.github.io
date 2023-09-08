@@ -6,7 +6,16 @@
     <description>Recent content on AutoML 2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://2023.automl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schedule</title>
+      <link>https://2023.automl.cc/program/program/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://2023.automl.cc/program/program/</guid>
+      <description>https://ml.informatik.uni-freiburg.de/automl-conf-2023/ The password will be sent to participants shortly before the conference.</description>
+    </item>
+    
     <item>
       <title>Accepted papers</title>
       <link>https://2023.automl.cc/program/accepted_papers/</link>
@@ -42,15 +51,6 @@ Searching for Fairer Machine Learning Ensembles - Michael Feffer, Martin Hirzel,
       
       <guid>https://2023.automl.cc/program/social_program/</guid>
       <description>This year, we will again have a fun and inclusive social program for everyone.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://2023.automl.cc/program/program/</link>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://2023.automl.cc/program/program/</guid>
-      <description>https://ml.informatik.uni-freiburg.de/automl-conf-2023/ The password will be sent to participants shortly before the conference.</description>
     </item>
     
     <item>
