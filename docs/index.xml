@@ -259,7 +259,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/industry_keynotes/andreas-mueller/</guid>
-      <description>From AutoML to AutoDS Andreas Müller Date: Tuesday, Sep 12, 2023, 14:00 - 14:30 Abstract: Both the AutoML community, and the wider ML community continue to focus on a very narrow set of tasks for ML, that are quite removed from everyday challenges of a Data Scientist.</description>
+      <description>From AutoML to AutoDSAndreas MüllerDate: Tuesday, Sep 12, 2023, 14:00 - 14:30Abstract: Both the AutoML community, and the wider ML community continue to focus on a very narrow set of tasks for ML, that are quite removed from everyday challenges of a Data Scientist.</description>
     </item>
     
     <item>
@@ -268,7 +268,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/industry_keynotes/herbrich/</guid>
-      <description>Bayesian Optimization for Second-Life Batteries Ralf Herbrich Date: Tuesday, Sep 12, 2023, 9:00 - 9:30 Abstract: How can AI become more energy-efficient and sustainable?</description>
+      <description>Bayesian Optimization for Second-Life BatteriesRalf HerbrichDate: Tuesday, Sep 12, 2023, 9:00 - 9:30Abstract: How can AI become more energy-efficient and sustainable?</description>
     </item>
     
     <item>
@@ -277,7 +277,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/industry_keynotes/jitsev/</guid>
-      <description>Reproducible science of transferable learning with open foundation models Jenia Jitsev Date: Tuesday, Sep 12, 2023, 10:00 - 10:30 Abstract: TBD</description>
+      <description>Reproducible science of transferable learning with open foundation modelsJenia JitsevDate: Tuesday, Sep 12, 2023, 10:00 - 10:30Abstract: TBD</description>
     </item>
     
     <item>
@@ -286,7 +286,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/industry_keynotes/mihaela-van-der-schaar/</guid>
-      <description>Data-Centric AI and the importance of AutoML Mihaela van der Schaar University of Cambridge Date: Tuesday, Sep 12, 2023, 9:30 - 10:00 Abstract: TBD</description>
+      <description>Data-Centric AI and the importance of AutoMLMihaela van der SchaarUniversity of CambridgeDate: Tuesday, Sep 12, 2023, 9:30 - 10:00Abstract: TBD</description>
     </item>
     
     <item>
@@ -295,7 +295,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/panels/panel1/</guid>
-      <description>Bridging the Gap between AutoML academia &amp; industry Date: Tuesday, Sep 12, 2023, 15:00 - 15:45 </description>
+      <description>Bridging the Gapbetween AutoML academia &amp; industryDate: Tuesday, Sep 12, 2023, 15:00 - 15:45 </description>
     </item>
     
     <item>
@@ -304,7 +304,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/industry_keynotes/tsamardinos/</guid>
-      <description>Feature Selection and Knowledge Discovery in AutoML and Automated Causal Discovery Ioannis Tsamardinos Date: Tuesday, Sep 12, 2023, 14:30 - 15:00 Abstract: It is often the case that the primary goal of an analysis is not model construction, but discovering new knowledge in the form of the features that determine the predictions.</description>
+      <description>Feature Selection and Knowledge Discovery in AutoML and Automated Causal DiscoveryIoannis TsamardinosDate: Tuesday, Sep 12, 2023, 14:30 - 15:00Abstract: It is often the case that the primary goal of an analysis is not model construction, but discovering new knowledge in the form of the features that determine the predictions.</description>
     </item>
     
     <item>
@@ -313,7 +313,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/keynotes/esteban-real/</guid>
-      <description>AutoML-Zero to One: Discovering Machine Learning from Simple Primitives Esteban Real Staff Research Scientist, Google Deepmind Date: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: Can learning emerge from a search process in-silico?</description>
+      <description>AutoML-Zero to One: Discovering Machine Learning from Simple PrimitivesEsteban RealStaff Research Scientist, Google DeepmindDate: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: Can learning emerge from a search process in-silico?</description>
     </item>
     
     <item>
@@ -322,7 +322,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/keynotes/eytan-bakshy/</guid>
-      <description>Beyond loss: Efficient optimization of living machine learning systems Eytan Bakshy Director and research scientist, Meta Date: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
+      <description>Beyond loss: Efficient optimization of living machine learning systemsEytan BakshyDirector and research scientist, MetaDate: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
     </item>
     
     <item>
@@ -331,7 +331,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/keynotes/hayeon-lee/</guid>
-      <description>Transferable Neural Architecture Search with Diffusion Models for the Real World Hayeon Lee Korea Advanced Institute of Science and Technology (KAIST) Date: Friday, Sep 15, 2023, 14:00 - 15:00 Abstract: Neural Architecture Search (NAS) is a promising AutoML technique for automating neural architecture design.</description>
+      <description>Transferable Neural Architecture Search with Diffusion Models for the Real WorldHayeon LeeKorea Advanced Institute of Science and Technology (KAIST)Date: Friday, Sep 15, 2023, 14:00 - 15:00Abstract: Neural Architecture Search (NAS) is a promising AutoML technique for automating neural architecture design.</description>
     </item>
     
     <item>
@@ -340,7 +340,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/keynotes/madeleine-udell/</guid>
-      <description>Recommending Learners Madeleine Udell Assistant Professor, Stanford University Date: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
+      <description>Recommending LearnersMadeleine UdellAssistant Professor, Stanford UniversityDate: Thursday, Sep 14, 2023, 14:00 - 15:00 Abstract: TBD</description>
     </item>
     
     <item>
@@ -349,7 +349,7 @@ AutoML Applications (A), Benchmarks (B), Challenges (C), and Datasets (D) are in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/keynotes/mihaela-van-der-schaar/</guid>
-      <description>A Reality-centric Perspective on AutoML: AutoML&#39;s Unique Challenges in Healthcare …and beyond Mihaela van der Schaar University of Cambridge Date: Wednesday, Sep 13, 2023, 9:30 - 10:30 Abstract: TBD</description>
+      <description>A Reality-centric Perspective on AutoML: AutoML&#39;s Unique Challenges in Healthcare …and beyondMihaela van der SchaarUniversity of CambridgeDate: Wednesday, Sep 13, 2023, 9:30 - 10:30Abstract: TBD</description>
     </item>
     
     <item>
@@ -369,7 +369,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/panels/panel2/</guid>
-      <description>AutoML and LLMs Date: Thursday, Sep 14, 2023, 10:00 - 10:45 Panelists: Slav Petrov (Google)</description>
+      <description>AutoML and LLMsDate: Thursday, Sep 14, 2023, 10:00 - 10:45 Panelists: Slav Petrov (Google)</description>
     </item>
     
     <item>
@@ -378,7 +378,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/panels/panel3/</guid>
-      <description>AutoML,Trustworthiness &amp; Alignment Date: Thursday, Sep 14, 2023, 16:30 - 17:15 Panelists: Alex Beutel (OpenAI)</description>
+      <description>AutoML,Trustworthiness &amp; AlignmentDate: Thursday, Sep 14, 2023, 16:30 - 17:15 Panelists: Alex Beutel (OpenAI)</description>
     </item>
     
     <item>
@@ -387,7 +387,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/panels/panel4/</guid>
-      <description>Automated data science Date: Friday, Sep 15, 2023, 10:00 - 10:45 Panelists: Madeleine Udelle (Stanford University)</description>
+      <description>Automated data scienceDate: Friday, Sep 15, 2023, 10:00 - 10:45 Panelists: Madeleine Udelle (Stanford University)</description>
     </item>
     
     <item>
@@ -396,7 +396,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/apples-and-apples/</guid>
-      <description>Apples and Apples: Experimentation with and Benchmarking of Hyperparameter Tuning Date: Wednesday, Sep 13, 2023, 11:00 - 12:30 Speakers: Matthias Seeger, Amazon Jacek Golebiowski, Amazon Matthias Poloczek, Amazon David Salinas, Amazon Website: https://sites.</description>
+      <description>Apples and Apples: Experimentation with and Benchmarking of Hyperparameter TuningDate: Wednesday, Sep 13, 2023, 11:00 - 12:30Speakers:Matthias Seeger, Amazon Jacek Golebiowski, Amazon Matthias Poloczek, Amazon David Salinas, Amazon Website:https://sites.</description>
     </item>
     
     <item>
@@ -405,7 +405,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/autogluon/</guid>
-      <description>AutoGluon v1.0: Shattering the AutoML Ceiling with Zero Lines of Code Date: Tuesday, Sep 12, 2023, 16:30 - 18:30 Speakers: Nick Erickson, Amazon Oleksandr Shchur, Amazon David Salinas, Amazon Website: https://sites.</description>
+      <description>AutoGluon v1.0: Shattering the AutoML Ceiling with Zero Lines of Code Date: Tuesday, Sep 12, 2023, 16:30 - 18:30Speakers:Nick Erickson, Amazon Oleksandr Shchur, Amazon David Salinas, Amazon Website:https://sites.</description>
     </item>
     
     <item>
@@ -414,7 +414,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/language-modelling-for-optimization/</guid>
-      <description>Language Modelling for Optimization Date: Wednesday, Sep 13, 2023, 14:30 - 16:00 Speakers: Xingyou Song, Google Deepmind Yutian Chen, Google Deepmind Website: https://sites.</description>
+      <description>Language Modelling for OptimizationDate: Wednesday, Sep 13, 2023, 14:30 - 16:00Speakers:Xingyou Song, Google Deepmind Yutian Chen, Google Deepmind Website:https://sites.</description>
     </item>
     
     <item>
@@ -423,7 +423,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/llm-based-auto-survey/</guid>
-      <description>Hands-on tutorial on the LLM-based Auto-Survey Competition Date: Wednesday, Sep 13, 2023, 11:00 - 12:30 Speakers: Lisheng Sun-Hosoya, Université Paris-Saclay, France Website: https://sites.</description>
+      <description>Hands-on tutorial on the LLM-based Auto-Survey CompetitionDate: Wednesday, Sep 13, 2023, 11:00 - 12:30Speakers:Lisheng Sun-Hosoya, Université Paris-Saclay, France Website:https://sites.</description>
     </item>
     
     <item>
@@ -432,7 +432,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/meta-learning/</guid>
-      <description>Meta-Learning for Hyperparameter Optimization Date: Wednesday, Sep 13, 2023, 14:30 - 16:00 Speakers: Josif Grabocka, University of Freiburg Martin Wistuba, Amazon Research Website: https://neural-architecture-search.</description>
+      <description>Meta-Learning for Hyperparameter OptimizationDate: Wednesday, Sep 13, 2023, 14:30 - 16:00Speakers:Josif Grabocka, University of Freiburg Martin Wistuba, Amazon Research Website:https://neural-architecture-search.</description>
     </item>
     
     <item>
@@ -441,7 +441,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/meta-reinforcement/</guid>
-      <description>A Tutorial on Meta-Reinforcement Learning Date: Wednesday, Sep 13, 2023, 11:00 - 12:30 Speakers: Jacob Beck, University of Oxford Risto Vuorio, University of Oxford Website: https://sites.</description>
+      <description>A Tutorial on Meta-Reinforcement LearningDate: Wednesday, Sep 13, 2023, 11:00 - 12:30Speakers:Jacob Beck, University of Oxford Risto Vuorio, University of Oxford Website:https://sites.</description>
     </item>
     
     <item>
@@ -450,7 +450,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/opensourcevizier/</guid>
-      <description>Open Source Vizier: Google’s Blackbox and Hyperparameter Optimization at Scale Date: Tuesday, Sep 12, 2023, 11:00 - 12:30 Speakers: Xingyou Song, Google Deepmind Qiuyi Zhang, Google Deepmind Sagi Perel, Google Deepmind Website: https://sites.</description>
+      <description>Open Source Vizier: Google’s Blackbox and Hyperparameter Optimization at Scale Date: Tuesday, Sep 12, 2023, 11:00 - 12:30Speakers:Xingyou Song, Google Deepmind Qiuyi Zhang, Google Deepmind Sagi Perel, Google Deepmind Website:https://sites.</description>
     </item>
     
     <item>
@@ -459,7 +459,7 @@ Conference Organizer Contact: post@p3-projekt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://2023.automl.cc/program/tutorials/survey-of-methods/</guid>
-      <description>A Survey of Methods for Automated Algorithm Configuration Date: Wednesday, Sep 13, 2023, 14:30 - 16:00 Speakers: Marcel Wever, MCML, LMU Munich Jasmin Brandt, Paderborn University Viktor Bengs, LMU Munich Website: https://sites.</description>
+      <description>A Survey of Methods for Automated Algorithm ConfigurationDate: Wednesday, Sep 13, 2023, 14:30 - 16:00Speakers:Marcel Wever, MCML, LMU Munich Jasmin Brandt, Paderborn University Viktor Bengs, LMU Munich Website:https://sites.</description>
     </item>
     
     <item>
